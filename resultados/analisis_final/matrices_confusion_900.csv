@@ -1,0 +1,17 @@
+sistema,clase_real,clase_predicha,cantidad
+SUT 1 - Regresión logística,andino,andino,344
+SUT 1 - Regresión logística,andino,no_andino,106
+SUT 1 - Regresión logística,no_andino,andino,106
+SUT 1 - Regresión logística,no_andino,no_andino,344
+SUT 2 - LLM nativo,andino,andino,187
+SUT 2 - LLM nativo,andino,no_andino,263
+SUT 2 - LLM nativo,no_andino,andino,1
+SUT 2 - LLM nativo,no_andino,no_andino,449
+SUT 3 - RAG semántico,andino,andino,206
+SUT 3 - RAG semántico,andino,no_andino,244
+SUT 3 - RAG semántico,no_andino,andino,48
+SUT 3 - RAG semántico,no_andino,no_andino,402
+SUT 4 - RecMS,andino,andino,360
+SUT 4 - RecMS,andino,no_andino,90
+SUT 4 - RecMS,no_andino,andino,2
+SUT 4 - RecMS,no_andino,no_andino,448

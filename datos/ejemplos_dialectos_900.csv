@@ -1,0 +1,901 @@
+regla_id,regla,case_id,test_case,label
+R01,Uso de posesivo,1,De mi vecina su huerto tiene muchas flores.,andino
+R01,Uso de posesivo,2,De Julián su bicicleta quedó junto al portón.,andino
+R01,Uso de posesivo,3,De la profesora sus cuadernos están sobre la mesa.,andino
+R01,Uso de posesivo,4,De mi abuela su receta es famosa en el barrio.,andino
+R01,Uso de posesivo,5,De esos niños sus mochilas pesan bastante.,andino
+R01,Uso de posesivo,6,De la enfermera su uniforme está recién lavado.,andino
+R01,Uso de posesivo,7,De mi primo su reloj dejó de funcionar.,andino
+R01,Uso de posesivo,8,De Teresa su perro se escapó anoche.,andino
+R01,Uso de posesivo,9,De los estudiantes sus carpetas quedaron en el aula.,andino
+R01,Uso de posesivo,10,De mi padre sus lentes aparecieron en la cocina.,andino
+R01,Uso de posesivo,11,De la panadera su horno se malogró ayer.,andino
+R01,Uso de posesivo,12,De Rodrigo su hermana llegó de viaje.,andino
+R01,Uso de posesivo,13,De las vecinas sus ventanas dan al patio.,andino
+R01,Uso de posesivo,14,De mi madrina su negocio abre temprano.,andino
+R01,Uso de posesivo,15,De ese músico su guitarra tiene una cuerda rota.,andino
+R01,Uso de posesivo,16,De la directora su oficina está en el segundo piso.,andino
+R01,Uso de posesivo,17,De mi hermano su camiseta se secó al sol.,andino
+R01,Uso de posesivo,18,De esos turistas sus maletas ocupan todo el pasillo.,andino
+R01,Uso de posesivo,19,De Julia su teléfono está sin batería.,andino
+R01,Uso de posesivo,20,De los agricultores sus herramientas quedaron afuera.,andino
+R01,Uso de posesivo,21,De mi suegra su jardín está lleno de rosas.,andino
+R01,Uso de posesivo,22,De Ernesto su sombrero se quedó en el autobús.,andino
+R01,Uso de posesivo,23,De la dentista su consultorio queda frente al mercado.,andino
+R01,Uso de posesivo,24,De los niños sus dibujos adornan la pared.,andino
+R01,Uso de posesivo,25,De mi abuelo sus fotografías están en una caja.,andino
+R01,Uso de posesivo,26,De la costurera su máquina hace mucho ruido.,andino
+R01,Uso de posesivo,27,De Patricia su departamento tiene un balcón pequeño.,andino
+R01,Uso de posesivo,28,De los vecinos su gato duerme en nuestro techo.,andino
+R01,Uso de posesivo,29,De mi tía su sopa siempre sale deliciosa.,andino
+R01,Uso de posesivo,30,De ese joven sus documentos estaban incompletos.,andino
+R01,Uso de posesivo,31,De Carmen su collar se perdió durante la fiesta.,andino
+R01,Uso de posesivo,32,De la bibliotecaria sus llaves aparecieron debajo del escritorio.,andino
+R01,Uso de posesivo,33,De mi compañero su computadora se apagó de pronto.,andino
+R01,Uso de posesivo,34,De las bailarinas sus zapatos brillaban bajo las luces.,andino
+R01,Uso de posesivo,35,De Daniel su bicicleta necesita una llanta nueva.,andino
+R01,Uso de posesivo,36,De mi sobrina sus cuentos están ordenados por colores.,andino
+R01,Uso de posesivo,37,De la vendedora su puesto está cerca de la entrada.,andino
+R01,Uso de posesivo,38,De los pescadores sus redes se secan en la playa.,andino
+R01,Uso de posesivo,39,De Alejandra su reloj marca una hora equivocada.,andino
+R01,Uso de posesivo,40,De mi padrino sus plantas crecieron bastante este mes.,andino
+R01,Uso de posesivo,41,De los médicos sus batas quedaron en el vestuario.,andino
+R01,Uso de posesivo,42,De ese señor su bastón está detrás de la puerta.,andino
+R01,Uso de posesivo,43,De la niña sus juguetes caben en una sola caja.,andino
+R01,Uso de posesivo,44,De mi madre su agenda está llena de anotaciones.,andino
+R01,Uso de posesivo,45,De los actores sus disfraces llegaron esta mañana.,andino
+R01,Uso de posesivo,46,De Samuel su mochila tiene un cierre dañado.,andino
+R01,Uso de posesivo,47,De la arquitecta sus planos están listos para imprimir.,andino
+R01,Uso de posesivo,48,De mis amigos su tienda funciona los sábados.,andino
+R01,Uso de posesivo,49,De la estudiante sus apuntes están bien organizados.,andino
+R01,Uso de posesivo,50,De los abuelos su casa tiene un corredor amplio.,andino
+R01,Uso de posesivo,51,Mi prima dejó su paraguas en la oficina.,no_andino
+R01,Uso de posesivo,52,El techo de la biblioteca necesita reparaciones.,no_andino
+R01,Uso de posesivo,53,Los zapatos de Gabriel quedaron mojados por la lluvia.,no_andino
+R01,Uso de posesivo,54,Nuestro edificio tiene un jardín interior.,no_andino
+R01,Uso de posesivo,55,La casa de Valeria está cerca del parque.,no_andino
+R01,Uso de posesivo,56,El cuaderno de Martín quedó sobre el escritorio.,no_andino
+R01,Uso de posesivo,57,Mi hermana encontró sus llaves en la cocina.,no_andino
+R01,Uso de posesivo,58,La oficina del gerente tiene una ventana grande.,no_andino
+R01,Uso de posesivo,59,Los libros de Raquel ocupan dos estantes.,no_andino
+R01,Uso de posesivo,60,Su bicicleta necesita un freno nuevo.,no_andino
+R01,Uso de posesivo,61,El perro de la vecina ladra por las noches.,no_andino
+R01,Uso de posesivo,62,Mis padres compraron una mesa pequeña.,no_andino
+R01,Uso de posesivo,63,La mochila de Lucía pesa demasiado.,no_andino
+R01,Uso de posesivo,64,El abrigo del profesor quedó en el automóvil.,no_andino
+R01,Uso de posesivo,65,Nuestras plantas florecieron esta primavera.,no_andino
+R01,Uso de posesivo,66,La hermana de Andrés trabaja en un hospital.,no_andino
+R01,Uso de posesivo,67,El teléfono de Natalia dejó de sonar.,no_andino
+R01,Uso de posesivo,68,Los juguetes del bebé están en la sala.,no_andino
+R01,Uso de posesivo,69,Su tienda abre después de las nueve.,no_andino
+R01,Uso de posesivo,70,El jardín del colegio necesita mantenimiento.,no_andino
+R01,Uso de posesivo,71,Las fotografías de mi abuelo están digitalizadas.,no_andino
+R01,Uso de posesivo,72,El equipo de Javier ganó el campeonato.,no_andino
+R01,Uso de posesivo,73,Nuestra profesora corrigió los exámenes.,no_andino
+R01,Uso de posesivo,74,El vestido de Elena tiene botones azules.,no_andino
+R01,Uso de posesivo,75,Las ventanas del edificio dan a la avenida.,no_andino
+R01,Uso de posesivo,76,Mi tío preparó una cena especial.,no_andino
+R01,Uso de posesivo,77,El automóvil de Patricia está estacionado afuera.,no_andino
+R01,Uso de posesivo,78,Sus documentos siguen en la recepción.,no_andino
+R01,Uso de posesivo,79,La guitarra del músico requiere afinación.,no_andino
+R01,Uso de posesivo,80,La receta de mi abuela lleva canela.,no_andino
+R01,Uso de posesivo,81,Los vecinos pintaron su fachada de blanco.,no_andino
+R01,Uso de posesivo,82,El dormitorio de Camila recibe mucha luz.,no_andino
+R01,Uso de posesivo,83,Mi compañero trajo su computadora portátil.,no_andino
+R01,Uso de posesivo,84,La mesa del comedor tiene cuatro sillas.,no_andino
+R01,Uso de posesivo,85,El reloj de Ricardo se adelantó cinco minutos.,no_andino
+R01,Uso de posesivo,86,El informe de la investigadora fue aprobado.,no_andino
+R01,Uso de posesivo,87,Nuestros amigos llegaron ayer por la tarde.,no_andino
+R01,Uso de posesivo,88,La mascota de la familia duerme en el balcón.,no_andino
+R01,Uso de posesivo,89,El uniforme de la enfermera está impecable.,no_andino
+R01,Uso de posesivo,90,Su fotografía apareció en el periódico.,no_andino
+R01,Uso de posesivo,91,El mercado del distrito cierra los domingos.,no_andino
+R01,Uso de posesivo,92,Las herramientas del carpintero están guardadas.,no_andino
+R01,Uso de posesivo,93,El hermano de Sofía estudia medicina.,no_andino
+R01,Uso de posesivo,94,Mi sobrino perdió sus guantes de lana.,no_andino
+R01,Uso de posesivo,95,La entrada del teatro estaba iluminada.,no_andino
+R01,Uso de posesivo,96,Los planos del arquitecto quedaron archivados.,no_andino
+R01,Uso de posesivo,97,Sus padres viven cerca del aeropuerto.,no_andino
+R01,Uso de posesivo,98,La computadora del laboratorio funciona bien.,no_andino
+R01,Uso de posesivo,99,El huerto de Marina produce tomates.,no_andino
+R01,Uso de posesivo,100,Nuestro equipo presentó el proyecto final.,no_andino
+R02,Orden objeto y verbo,101,Los documentos entregaré mañana por la mañana.,andino
+R02,Orden objeto y verbo,102,Una lámpara compró Rosa para su escritorio.,andino
+R02,Orden objeto y verbo,103,Arroz y verduras preparó mi tío para almorzar.,andino
+R02,Orden objeto y verbo,104,A los vecinos saludó Mariana al salir.,andino
+R02,Orden objeto y verbo,105,Una carta escribiré esta noche.,andino
+R02,Orden objeto y verbo,106,El informe terminaré antes del viernes.,andino
+R02,Orden objeto y verbo,107,Los zapatos limpió Pablo después del paseo.,andino
+R02,Orden objeto y verbo,108,Una canción cantaron las niñas en la fiesta.,andino
+R02,Orden objeto y verbo,109,El boleto guardó mi madre en su bolso.,andino
+R02,Orden objeto y verbo,110,Las semillas sembramos al comenzar la primavera.,andino
+R02,Orden objeto y verbo,111,Un mensaje enviará Lucía desde el aeropuerto.,andino
+R02,Orden objeto y verbo,112,Los platos lavaron mis hermanos al terminar la cena.,andino
+R02,Orden objeto y verbo,113,El libro encontró Daniel detrás del sofá.,andino
+R02,Orden objeto y verbo,114,La puerta cerré antes de salir de casa.,andino
+R02,Orden objeto y verbo,115,El mapa consultaron los visitantes en la entrada.,andino
+R02,Orden objeto y verbo,116,Una fotografía tomó Elena desde la ventana.,andino
+R02,Orden objeto y verbo,117,Los ejercicios resolveremos en la siguiente clase.,andino
+R02,Orden objeto y verbo,118,El pastel decoró mi prima con fresas.,andino
+R02,Orden objeto y verbo,119,La mesa movieron los trabajadores hacia el pasillo.,andino
+R02,Orden objeto y verbo,120,Un abrigo compró mi padre para el invierno.,andino
+R02,Orden objeto y verbo,121,Las preguntas respondió Carmen sin dificultad.,andino
+R02,Orden objeto y verbo,122,El paquete recogerá Miguel esta tarde.,andino
+R02,Orden objeto y verbo,123,Los árboles podaron los jardineros el lunes.,andino
+R02,Orden objeto y verbo,124,La bicicleta reparó Andrea durante el fin de semana.,andino
+R02,Orden objeto y verbo,125,Las instrucciones leímos antes de comenzar.,andino
+R02,Orden objeto y verbo,126,Un café pidió el conductor al llegar.,andino
+R02,Orden objeto y verbo,127,El examen revisará la profesora mañana.,andino
+R02,Orden objeto y verbo,128,Las ventanas abrió Rosa para ventilar la sala.,andino
+R02,Orden objeto y verbo,129,Una historia contó mi abuelo junto al fuego.,andino
+R02,Orden objeto y verbo,130,Los materiales traeremos para el taller.,andino
+R02,Orden objeto y verbo,131,El vaso dejó Nicolás sobre la repisa.,andino
+R02,Orden objeto y verbo,132,Las entradas compraron mis amigos por internet.,andino
+R02,Orden objeto y verbo,133,La sopa calenté antes de servirla.,andino
+R02,Orden objeto y verbo,134,Un dibujo hizo Tomás para su hermana.,andino
+R02,Orden objeto y verbo,135,Los formularios llenaron los pacientes en recepción.,andino
+R02,Orden objeto y verbo,136,La tarea entregará Sofía el jueves.,andino
+R02,Orden objeto y verbo,137,El camino recorrieron los ciclistas al amanecer.,andino
+R02,Orden objeto y verbo,138,Las herramientas ordenó el mecánico al cerrar.,andino
+R02,Orden objeto y verbo,139,Un vestido eligió Claudia para la ceremonia.,andino
+R02,Orden objeto y verbo,140,Los resultados publicaron los organizadores esta mañana.,andino
+R02,Orden objeto y verbo,141,El balón pateó Joaquín hacia la portería.,andino
+R02,Orden objeto y verbo,142,Las cajas trasladaron los empleados al almacén.,andino
+R02,Orden objeto y verbo,143,La película vimos anoche en casa.,andino
+R02,Orden objeto y verbo,144,Un poema recitó la estudiante en público.,andino
+R02,Orden objeto y verbo,145,Los carteles colocarán los voluntarios al mediodía.,andino
+R02,Orden objeto y verbo,146,La fruta cortó mi hermana en trozos pequeños.,andino
+R02,Orden objeto y verbo,147,El correo responderé después del almuerzo.,andino
+R02,Orden objeto y verbo,148,Las plantas regó Esteban antes de irse.,andino
+R02,Orden objeto y verbo,149,Una computadora necesita mi compañero para el curso.,andino
+R02,Orden objeto y verbo,150,El portón pintaron los vecinos de color verde.,andino
+R02,Orden objeto y verbo,151,La enfermera revisó los resultados al mediodía.,no_andino
+R02,Orden objeto y verbo,152,Pedro compró una guitarra usada.,no_andino
+R02,Orden objeto y verbo,153,El equipo reparará la tubería mañana.,no_andino
+R02,Orden objeto y verbo,154,Mis amigas organizaron la exposición del colegio.,no_andino
+R02,Orden objeto y verbo,155,La cocinera cortó las verduras para la sopa.,no_andino
+R02,Orden objeto y verbo,156,El bibliotecario clasificó los libros antiguos.,no_andino
+R02,Orden objeto y verbo,157,Marta escribió una carta de agradecimiento.,no_andino
+R02,Orden objeto y verbo,158,El técnico instaló el programa esta mañana.,no_andino
+R02,Orden objeto y verbo,159,Los turistas visitaron el museo de arte.,no_andino
+R02,Orden objeto y verbo,160,Mi hermano preparó el desayuno temprano.,no_andino
+R02,Orden objeto y verbo,161,El carpintero construyó una mesa de madera.,no_andino
+R02,Orden objeto y verbo,162,La profesora explicó las instrucciones del proyecto.,no_andino
+R02,Orden objeto y verbo,163,Clara guardó los recibos en una carpeta.,no_andino
+R02,Orden objeto y verbo,164,Los voluntarios limpiaron el parque del barrio.,no_andino
+R02,Orden objeto y verbo,165,El chef sirvió la cena a las ocho.,no_andino
+R02,Orden objeto y verbo,166,Mi prima encontró una moneda en el jardín.,no_andino
+R02,Orden objeto y verbo,167,El editor corrigió los errores del documento.,no_andino
+R02,Orden objeto y verbo,168,Los estudiantes presentaron sus trabajos finales.,no_andino
+R02,Orden objeto y verbo,169,La secretaria imprimió la agenda de reuniones.,no_andino
+R02,Orden objeto y verbo,170,El mecánico cambió las llantas del vehículo.,no_andino
+R02,Orden objeto y verbo,171,El fotógrafo capturó una imagen del amanecer.,no_andino
+R02,Orden objeto y verbo,172,La familia decoró la sala para la celebración.,no_andino
+R02,Orden objeto y verbo,173,Daniel compró flores en la esquina.,no_andino
+R02,Orden objeto y verbo,174,La entrenadora diseñó una rutina nueva.,no_andino
+R02,Orden objeto y verbo,175,Los vecinos organizaron una colecta solidaria.,no_andino
+R02,Orden objeto y verbo,176,El jardinero sembró rosas junto a la entrada.,no_andino
+R02,Orden objeto y verbo,177,La artista pintó un mural en la escuela.,no_andino
+R02,Orden objeto y verbo,178,El conductor revisó los frenos antes del viaje.,no_andino
+R02,Orden objeto y verbo,179,Mis amigos alquilaron una casa de campo.,no_andino
+R02,Orden objeto y verbo,180,La científica analizó los datos del experimento.,no_andino
+R02,Orden objeto y verbo,181,El vendedor entregó el comprobante al cliente.,no_andino
+R02,Orden objeto y verbo,182,La costurera arregló el vestido de Ana.,no_andino
+R02,Orden objeto y verbo,183,El grupo grabó un video educativo.,no_andino
+R02,Orden objeto y verbo,184,El panadero horneó pan fresco esta madrugada.,no_andino
+R02,Orden objeto y verbo,185,Patricia respondió las preguntas de la audiencia.,no_andino
+R02,Orden objeto y verbo,186,El médico solicitó nuevos análisis de sangre.,no_andino
+R02,Orden objeto y verbo,187,La directora inauguró la biblioteca escolar.,no_andino
+R02,Orden objeto y verbo,188,Los trabajadores instalaron las luces del escenario.,no_andino
+R02,Orden objeto y verbo,189,La estudiante resolvió el problema de álgebra.,no_andino
+R02,Orden objeto y verbo,190,El músico afinó su instrumento antes de tocar.,no_andino
+R02,Orden objeto y verbo,191,El niño dibujó un gato en su cuaderno.,no_andino
+R02,Orden objeto y verbo,192,El encargado cerró las puertas del edificio.,no_andino
+R02,Orden objeto y verbo,193,La guía explicó la historia del monumento.,no_andino
+R02,Orden objeto y verbo,194,Mi vecino arregló la cerca del patio.,no_andino
+R02,Orden objeto y verbo,195,Los participantes completaron el formulario digital.,no_andino
+R02,Orden objeto y verbo,196,El equipo organizó los archivos por fecha.,no_andino
+R02,Orden objeto y verbo,197,La diseñadora eligió colores suaves para la portada.,no_andino
+R02,Orden objeto y verbo,198,Los alumnos leyeron un cuento corto.,no_andino
+R02,Orden objeto y verbo,199,La empresa renovó los equipos de oficina.,no_andino
+R02,Orden objeto y verbo,200,El recepcionista entregó las llaves de la habitación.,no_andino
+R03,Clausula subordinada,201,De lo que caminó sin paraguas se resfrió Lucía.,andino
+R03,Clausula subordinada,202,De lo que calentaron demasiado la olla se quemó el arroz.,andino
+R03,Clausula subordinada,203,De lo que no durmió bien llegó agotado al trabajo.,andino
+R03,Clausula subordinada,204,De lo que perdió el autobús entró tarde a clase.,andino
+R03,Clausula subordinada,205,De lo que dejó la ventana abierta entró polvo a la habitación.,andino
+R03,Clausula subordinada,206,De lo que olvidó su contraseña no pudo entrar al sistema.,andino
+R03,Clausula subordinada,207,De lo que corrió bajo el sol terminó mareado.,andino
+R03,Clausula subordinada,208,De lo que apagaron las luces quedó oscuro el pasillo.,andino
+R03,Clausula subordinada,209,De lo que cayó tanta lluvia se inundó el patio.,andino
+R03,Clausula subordinada,210,De lo que no estudió suficiente desaprobó la prueba.,andino
+R03,Clausula subordinada,211,De lo que habló tan bajito nadie lo escuchó.,andino
+R03,Clausula subordinada,212,De lo que se rompió la tubería faltó agua en el edificio.,andino
+R03,Clausula subordinada,213,De lo que cocinó sin tapar la olla se evaporó el caldo.,andino
+R03,Clausula subordinada,214,De lo que se quedó hasta tarde perdió el último tren.,andino
+R03,Clausula subordinada,215,De lo que pisó el charco se mojó los zapatos.,andino
+R03,Clausula subordinada,216,De lo que no cerró bien el frasco se derramó el aceite.,andino
+R03,Clausula subordinada,217,De lo que gritó durante el partido terminó afónico.,andino
+R03,Clausula subordinada,218,De lo que dejó el celular cargando se calentó la batería.,andino
+R03,Clausula subordinada,219,De lo que no llevó abrigo pasó frío en la montaña.,andino
+R03,Clausula subordinada,220,De lo que cortaron un cable dejó de funcionar la lámpara.,andino
+R03,Clausula subordinada,221,De lo que practicó todos los días mejoró su pronunciación.,andino
+R03,Clausula subordinada,222,De lo que guardó el pan húmedo apareció moho.,andino
+R03,Clausula subordinada,223,De lo que sembraron muy tarde no crecieron los tomates.,andino
+R03,Clausula subordinada,224,De lo que se olvidó de comer le dolió la cabeza.,andino
+R03,Clausula subordinada,225,De lo que abrió la puerta con fuerza se rompió la bisagra.,andino
+R03,Clausula subordinada,226,De lo que apagó la alarma se quedó dormido.,andino
+R03,Clausula subordinada,227,De lo que demoró en salir perdió su turno.,andino
+R03,Clausula subordinada,228,De lo que mezcló las pinturas cambió el color.,andino
+R03,Clausula subordinada,229,De lo que no revisó el mapa se extravió en la ciudad.,andino
+R03,Clausula subordinada,230,De lo que puso demasiada sal quedó salada la sopa.,andino
+R03,Clausula subordinada,231,De lo que dejó la ropa afuera se empapó con la lluvia.,andino
+R03,Clausula subordinada,232,De lo que tomó agua muy fría le molestó la garganta.,andino
+R03,Clausula subordinada,233,De lo que el niño tropezó se le cayeron los cuadernos.,andino
+R03,Clausula subordinada,234,De lo que cargó bolsas pesadas terminó cansado.,andino
+R03,Clausula subordinada,235,De lo que estacionaron mal el camión bloquearon la entrada.,andino
+R03,Clausula subordinada,236,De lo que no guardó el archivo perdió los cambios.,andino
+R03,Clausula subordinada,237,De lo que regaron en exceso se pudrieron las raíces.,andino
+R03,Clausula subordinada,238,De lo que olvidó su cita tuvo que reprogramarla.,andino
+R03,Clausula subordinada,239,De lo que se cortó la luz se detuvo el ascensor.,andino
+R03,Clausula subordinada,240,De lo que discutieron durante horas llegaron tarde.,andino
+R03,Clausula subordinada,241,De lo que el reloj se atrasó perdió la reunión.,andino
+R03,Clausula subordinada,242,De lo que expuso mucho tiempo se quedó sin voz.,andino
+R03,Clausula subordinada,243,De lo que dejaron comida destapada llegaron hormigas.,andino
+R03,Clausula subordinada,244,De lo que se rompió el cierre cayó una moneda de la mochila.,andino
+R03,Clausula subordinada,245,De lo que no descansó después del viaje se enfermó.,andino
+R03,Clausula subordinada,246,De lo que pegó mal la etiqueta enviaron el paquete a otro lugar.,andino
+R03,Clausula subordinada,247,De lo que calentó la leche demasiado se derramó.,andino
+R03,Clausula subordinada,248,De lo que cerraron la calle el autobús tomó otro camino.,andino
+R03,Clausula subordinada,249,De lo que olvidó los ingredientes no terminó el pastel.,andino
+R03,Clausula subordinada,250,De lo que no sujetó el paraguas se lo llevó el viento.,andino
+R03,Clausula subordinada,251,Se canceló el partido porque llovió toda la mañana.,no_andino
+R03,Clausula subordinada,252,El niño lloró porque se golpeó la rodilla.,no_andino
+R03,Clausula subordinada,253,La reunión terminó temprano debido a un corte de luz.,no_andino
+R03,Clausula subordinada,254,Las plantas se secaron por falta de agua.,no_andino
+R03,Clausula subordinada,255,Clara llegó tarde porque el tráfico estaba detenido.,no_andino
+R03,Clausula subordinada,256,La clase comenzó después porque el profesor tuvo un inconveniente.,no_andino
+R03,Clausula subordinada,257,El museo cerró antes de tiempo debido a una avería eléctrica.,no_andino
+R03,Clausula subordinada,258,No salimos de excursión porque había niebla en el camino.,no_andino
+R03,Clausula subordinada,259,La computadora se apagó por el sobrecalentamiento.,no_andino
+R03,Clausula subordinada,260,El concierto se aplazó porque faltaban equipos de sonido.,no_andino
+R03,Clausula subordinada,261,El perro ladró porque escuchó pasos en el jardín.,no_andino
+R03,Clausula subordinada,262,El vuelo fue cancelado a causa de la tormenta.,no_andino
+R03,Clausula subordinada,263,Mi hermana descansó porque tenía fiebre.,no_andino
+R03,Clausula subordinada,264,La puerta no abrió debido a un desperfecto en la cerradura.,no_andino
+R03,Clausula subordinada,265,El equipo celebró porque había ganado el torneo.,no_andino
+R03,Clausula subordinada,266,El autobús cambió de ruta por las obras de la avenida.,no_andino
+R03,Clausula subordinada,267,La tienda cerró temprano porque no había electricidad.,no_andino
+R03,Clausula subordinada,268,Perdimos la reserva porque llegamos fuera del horario.,no_andino
+R03,Clausula subordinada,269,La ventana se rompió debido a una ráfaga de viento.,no_andino
+R03,Clausula subordinada,270,El conductor se detuvo porque el semáforo estaba en rojo.,no_andino
+R03,Clausula subordinada,271,La niña sonrió porque recibió una carta inesperada.,no_andino
+R03,Clausula subordinada,272,La biblioteca permaneció cerrada por trabajos de mantenimiento.,no_andino
+R03,Clausula subordinada,273,El gato se escondió porque escuchó un trueno.,no_andino
+R03,Clausula subordinada,274,Suspenderán las clases debido a las lluvias intensas.,no_andino
+R03,Clausula subordinada,275,La comida se enfrió porque la dejaron sobre la mesa.,no_andino
+R03,Clausula subordinada,276,El corredor redujo la velocidad por el dolor en la rodilla.,no_andino
+R03,Clausula subordinada,277,El tren se retrasó porque hubo una falla técnica.,no_andino
+R03,Clausula subordinada,278,La planta creció bien porque recibió suficiente luz.,no_andino
+R03,Clausula subordinada,279,El niño se durmió temprano porque estaba agotado.,no_andino
+R03,Clausula subordinada,280,El cliente pidió un reembolso debido al producto defectuoso.,no_andino
+R03,Clausula subordinada,281,La profesora repitió la explicación porque varios alumnos tenían dudas.,no_andino
+R03,Clausula subordinada,282,El edificio fue evacuado por una fuga de gas.,no_andino
+R03,Clausula subordinada,283,El jugador fue sustituido porque tenía una lesión.,no_andino
+R03,Clausula subordinada,284,El ascensor quedó fuera de servicio debido a una inspección.,no_andino
+R03,Clausula subordinada,285,El pastel se quemó porque olvidaron apagar el horno.,no_andino
+R03,Clausula subordinada,286,La ciudad organizó una campaña debido al aumento de residuos.,no_andino
+R03,Clausula subordinada,287,Marina abrió la ventana porque hacía mucho calor.,no_andino
+R03,Clausula subordinada,288,El archivo no se guardó por un error del programa.,no_andino
+R03,Clausula subordinada,289,Cancelaron el viaje porque el puente estaba cerrado.,no_andino
+R03,Clausula subordinada,290,El paciente volvió al hospital debido a un dolor persistente.,no_andino
+R03,Clausula subordinada,291,El escenario se mojó porque comenzó a llover.,no_andino
+R03,Clausula subordinada,292,La exposición recibió más visitantes gracias a la publicidad.,no_andino
+R03,Clausula subordinada,293,El equipo cambió de estrategia porque el rival atacaba rápido.,no_andino
+R03,Clausula subordinada,294,La tienda recibió un aviso por incumplir el horario.,no_andino
+R03,Clausula subordinada,295,La alarma sonó porque alguien abrió la puerta trasera.,no_andino
+R03,Clausula subordinada,296,El envío se demoró debido a un problema de transporte.,no_andino
+R03,Clausula subordinada,297,La lámpara dejó de funcionar porque se quemó el foco.,no_andino
+R03,Clausula subordinada,298,El jardinero cubrió las plantas para protegerlas de las heladas.,no_andino
+R03,Clausula subordinada,299,No pudieron ingresar porque sus entradas estaban vencidas.,no_andino
+R03,Clausula subordinada,300,El atleta descansó porque terminó la sesión de entrenamiento.,no_andino
+R04,Uso de nomás,301,Deja nomás el paquete sobre la mesa.,andino
+R04,Uso de nomás,302,Aquí nomás vive el zapatero.,andino
+R04,Uso de nomás,303,Una pregunta nomás quiero hacerle.,andino
+R04,Uso de nomás,304,Camina nomás por este sendero.,andino
+R04,Uso de nomás,305,Con un poquito de sal nomás alcanza.,andino
+R04,Uso de nomás,306,Espera nomás junto a la puerta.,andino
+R04,Uso de nomás,307,La firma nomás falta para terminar.,andino
+R04,Uso de nomás,308,A tres cuadras nomás queda la farmacia.,andino
+R04,Uso de nomás,309,Dime nomás lo que necesitas.,andino
+R04,Uso de nomás,310,Un vaso de agua nomás voy a tomar.,andino
+R04,Uso de nomás,311,La bolsa nomás deja en la entrada.,andino
+R04,Uso de nomás,312,Dos minutos nomás me demoro.,andino
+R04,Uso de nomás,313,Siéntate nomás en esa silla.,andino
+R04,Uso de nomás,314,La llave nomás estaba perdida.,andino
+R04,Uso de nomás,315,"Pasa nomás, la puerta está abierta.",andino
+R04,Uso de nomás,316,Por esta calle nomás seguimos caminando.,andino
+R04,Uso de nomás,317,Una servilleta nomás necesito.,andino
+R04,Uso de nomás,318,Haz nomás la prueba antes de decidir.,andino
+R04,Uso de nomás,319,En la esquina nomás nos encontramos.,andino
+R04,Uso de nomás,320,Un poquito nomás voy a descansar.,andino
+R04,Uso de nomás,321,Llama nomás cuando llegues a casa.,andino
+R04,Uso de nomás,322,Este cuaderno nomás llevaré al curso.,andino
+R04,Uso de nomás,323,Todavía un ratito nomás voy a esperar.,andino
+R04,Uso de nomás,324,Una foto nomás tomamos y regresamos.,andino
+R04,Uso de nomás,325,Quédate nomás hasta que termine la lluvia.,andino
+R04,Uso de nomás,326,La mitad nomás del dinero alcanzó.,andino
+R04,Uso de nomás,327,Sigue nomás por el pasillo.,andino
+R04,Uso de nomás,328,Un pan nomás me voy a servir.,andino
+R04,Uso de nomás,329,Por aquí nomás se llega al puente.,andino
+R04,Uso de nomás,330,Pregúntale nomás a la encargada.,andino
+R04,Uso de nomás,331,Dos personas nomás llegaron temprano.,andino
+R04,Uso de nomás,332,El paquete pequeño nomás quedó en el estante.,andino
+R04,Uso de nomás,333,Mira nomás cómo creció ese árbol.,andino
+R04,Uso de nomás,334,Sin apuro nomás haz tu trabajo.,andino
+R04,Uso de nomás,335,Una hora nomás dura el recorrido.,andino
+R04,Uso de nomás,336,En esta mesa nomás podemos conversar.,andino
+R04,Uso de nomás,337,Prueba nomás el jugo recién hecho.,andino
+R04,Uso de nomás,338,"Un lápiz nomás me prestas, por favor.",andino
+R04,Uso de nomás,339,"Adelante nomás, todavía hay espacio.",andino
+R04,Uso de nomás,340,Un kilómetro nomás falta para llegar.,andino
+R04,Uso de nomás,341,Duerme nomás un poco más.,andino
+R04,Uso de nomás,342,La última página nomás queda por revisar.,andino
+R04,Uso de nomás,343,En casa nomás vamos a celebrar.,andino
+R04,Uso de nomás,344,Acércate nomás para escuchar mejor.,andino
+R04,Uso de nomás,345,Un pedacito nomás quiero del pastel.,andino
+R04,Uso de nomás,346,Por la mañana nomás atienden aquí.,andino
+R04,Uso de nomás,347,Avísame nomás si cambias de idea.,andino
+R04,Uso de nomás,348,Cuatro sillas nomás necesitamos.,andino
+R04,Uso de nomás,349,La puerta de atrás nomás está abierta.,andino
+R04,Uso de nomás,350,Respira nomás y continúa con calma.,andino
+R04,Uso de nomás,351,Solamente necesito una copia del certificado.,no_andino
+R04,Uso de nomás,352,La farmacia está cerca de la estación.,no_andino
+R04,Uso de nomás,353,Puedes esperar en la sala principal.,no_andino
+R04,Uso de nomás,354,Quiero hacer una consulta breve.,no_andino
+R04,Uso de nomás,355,Añade únicamente una cucharadita de azúcar.,no_andino
+R04,Uso de nomás,356,Solo tengo veinte minutos disponibles.,no_andino
+R04,Uso de nomás,357,La tienda queda a dos cuadras del parque.,no_andino
+R04,Uso de nomás,358,Puedes dejar los documentos en recepción.,no_andino
+R04,Uso de nomás,359,Necesitamos únicamente dos voluntarios.,no_andino
+R04,Uso de nomás,360,Descansa un momento antes de continuar.,no_andino
+R04,Uso de nomás,361,La entrevista durará aproximadamente media hora.,no_andino
+R04,Uso de nomás,362,Basta con una firma para completar el trámite.,no_andino
+R04,Uso de nomás,363,Puedes entrar cuando la sala esté libre.,no_andino
+R04,Uso de nomás,364,Solo compré un cuaderno para el curso.,no_andino
+R04,Uso de nomás,365,El consultorio está al final del pasillo.,no_andino
+R04,Uso de nomás,366,Es suficiente llevar una identificación.,no_andino
+R04,Uso de nomás,367,La niña pidió una galleta adicional.,no_andino
+R04,Uso de nomás,368,El recorrido incluye solamente tres paradas.,no_andino
+R04,Uso de nomás,369,Avísame cuando estés cerca de la estación.,no_andino
+R04,Uso de nomás,370,Podemos conversar aquí sin interrupciones.,no_andino
+R04,Uso de nomás,371,Únicamente los participantes registrados recibirán el enlace.,no_andino
+R04,Uso de nomás,372,Faltan cinco minutos para comenzar.,no_andino
+R04,Uso de nomás,373,Siéntate donde te resulte más cómodo.,no_andino
+R04,Uso de nomás,374,Solo queda una entrada disponible.,no_andino
+R04,Uso de nomás,375,El restaurante abre durante el almuerzo.,no_andino
+R04,Uso de nomás,376,Puedes tomar agua del dispensador.,no_andino
+R04,Uso de nomás,377,La reparación requiere únicamente una pieza.,no_andino
+R04,Uso de nomás,378,Nos reuniremos frente a la biblioteca.,no_andino
+R04,Uso de nomás,379,Solo asistirán los representantes del grupo.,no_andino
+R04,Uso de nomás,380,El examen contiene veinte preguntas.,no_andino
+R04,Uso de nomás,381,Puedes continuar por esta avenida.,no_andino
+R04,Uso de nomás,382,La conferencia tendrá una única sesión.,no_andino
+R04,Uso de nomás,383,El niño quiere descansar un rato.,no_andino
+R04,Uso de nomás,384,Espera cerca de la ventanilla.,no_andino
+R04,Uso de nomás,385,El paquete pequeño cabe en la mochila.,no_andino
+R04,Uso de nomás,386,Solamente falta revisar la conclusión.,no_andino
+R04,Uso de nomás,387,La función comienza dentro de una hora.,no_andino
+R04,Uso de nomás,388,Puedes probar el plato antes de pedirlo.,no_andino
+R04,Uso de nomás,389,La clase se desarrollará en el aula principal.,no_andino
+R04,Uso de nomás,390,Solo utilizaremos una hoja por estudiante.,no_andino
+R04,Uso de nomás,391,Quedan tres lugares libres en el taller.,no_andino
+R04,Uso de nomás,392,Puedes llamar cuando tengas novedades.,no_andino
+R04,Uso de nomás,393,La inscripción se realiza por internet.,no_andino
+R04,Uso de nomás,394,Necesito únicamente la primera página del informe.,no_andino
+R04,Uso de nomás,395,La visita termina a las seis de la tarde.,no_andino
+R04,Uso de nomás,396,Podemos celebrar en mi casa.,no_andino
+R04,Uso de nomás,397,El viaje requiere un solo transbordo.,no_andino
+R04,Uso de nomás,398,"Si deseas, puedes pasar a la oficina.",no_andino
+R04,Uso de nomás,399,Solo se venden boletos en la entrada.,no_andino
+R04,Uso de nomás,400,El archivo ocupa muy poco espacio.,no_andino
+R05,Uso de dice,401,"Al otro lado del cerro hay una laguna, dice.",andino
+R05,Uso de dice,402,"Las clases empezarán el lunes, dice.",andino
+R05,Uso de dice,403,"La niña encontró la billetera, dice.",andino
+R05,Uso de dice,404,"En el pueblo habrá una feria mañana, dice.",andino
+R05,Uso de dice,405,"El puente quedó cerrado, dice.",andino
+R05,Uso de dice,406,"El médico ya llegó al centro de salud, dice.",andino
+R05,Uso de dice,407,"La familia se mudará el próximo mes, dice.",andino
+R05,Uso de dice,408,"Anoche vieron luces cerca del río, dice.",andino
+R05,Uso de dice,409,"El camino estará libre para el domingo, dice.",andino
+R05,Uso de dice,410,"Mañana bajará la temperatura, dice.",andino
+R05,Uso de dice,411,"La profesora cambiará la fecha del examen, dice.",andino
+R05,Uso de dice,412,"La cosecha de este año será buena, dice.",andino
+R05,Uso de dice,413,"El mercado abrirá más temprano, dice.",andino
+R05,Uso de dice,414,"El equipo viajará el viernes, dice.",andino
+R05,Uso de dice,415,"En esa casa vive una artesana famosa, dice.",andino
+R05,Uso de dice,416,"La tormenta llegará durante la noche, dice.",andino
+R05,Uso de dice,417,"El autobús ya pasó por la plaza, dice.",andino
+R05,Uso de dice,418,"El alcalde visitará el barrio, dice.",andino
+R05,Uso de dice,419,"La biblioteca recibirá libros nuevos, dice.",andino
+R05,Uso de dice,420,"El perro volvió solo a su casa, dice.",andino
+R05,Uso de dice,421,"Debajo del puente encontraron una bicicleta, dice.",andino
+R05,Uso de dice,422,"La feria terminará el martes, dice.",andino
+R05,Uso de dice,423,"El maestro regresará de su viaje, dice.",andino
+R05,Uso de dice,424,"Ayer cerraron la carretera principal, dice.",andino
+R05,Uso de dice,425,"La tienda tendrá descuentos mañana, dice.",andino
+R05,Uso de dice,426,"La cantante actuará esta noche, dice.",andino
+R05,Uso de dice,427,"El restaurante cambiará de dueño, dice.",andino
+R05,Uso de dice,428,"El bebé nació durante la madrugada, dice.",andino
+R05,Uso de dice,429,"En ese terreno construirán una escuela, dice.",andino
+R05,Uso de dice,430,"La señora ganó un premio importante, dice.",andino
+R05,Uso de dice,431,"El tren llegará con retraso, dice.",andino
+R05,Uso de dice,432,"El agua del río subió bastante, dice.",andino
+R05,Uso de dice,433,"El museo tendrá entrada gratuita, dice.",andino
+R05,Uso de dice,434,"La vecina recibió noticias de su hijo, dice.",andino
+R05,Uso de dice,435,"La exposición seguirá hasta diciembre, dice.",andino
+R05,Uso de dice,436,"El sábado habrá una reunión comunitaria, dice.",andino
+R05,Uso de dice,437,"El director renunciará a su cargo, dice.",andino
+R05,Uso de dice,438,"En esa montaña encontraron una cueva, dice.",andino
+R05,Uso de dice,439,"La panadería cerrará por remodelación, dice.",andino
+R05,Uso de dice,440,"Los alumnos saldrán antes del mediodía, dice.",andino
+R05,Uso de dice,441,"La lluvia dañó varios cultivos, dice.",andino
+R05,Uso de dice,442,"El laboratorio ya terminó las pruebas, dice.",andino
+R05,Uso de dice,443,"El próximo año abrirán una clínica, dice.",andino
+R05,Uso de dice,444,"El pescador encontró una red antigua, dice.",andino
+R05,Uso de dice,445,"Anoche se escuchó un ruido extraño, dice.",andino
+R05,Uso de dice,446,"La compañía cancelará su presentación, dice.",andino
+R05,Uso de dice,447,"El camión llegará mañana temprano, dice.",andino
+R05,Uso de dice,448,"Un vecino vio al gato perdido, dice.",andino
+R05,Uso de dice,449,"El parque tendrá nuevas bancas, dice.",andino
+R05,Uso de dice,450,"La competencia comenzará al amanecer, dice.",andino
+R05,Uso de dice,451,"Según el boletín, la carretera está abierta.",no_andino
+R05,Uso de dice,452,La directora informó que las inscripciones terminan el viernes.,no_andino
+R05,Uso de dice,453,"Al parecer, la cosecha será abundante.",no_andino
+R05,Uso de dice,454,Un vecino comentó que hubo un corte de energía.,no_andino
+R05,Uso de dice,455,El pronóstico anuncia temperaturas bajas para mañana.,no_andino
+R05,Uso de dice,456,La radio informó sobre el cierre del puente.,no_andino
+R05,Uso de dice,457,"Según el comunicado, el museo abrirá el lunes.",no_andino
+R05,Uso de dice,458,El médico confirmó que los resultados están listos.,no_andino
+R05,Uso de dice,459,Una testigo relató lo ocurrido en la plaza.,no_andino
+R05,Uso de dice,460,"De acuerdo con el informe, los precios permanecerán estables.",no_andino
+R05,Uso de dice,461,La maestra anunció una actividad para el viernes.,no_andino
+R05,Uso de dice,462,El encargado indicó que la puerta principal está cerrada.,no_andino
+R05,Uso de dice,463,El periódico publicó la fecha del concierto.,no_andino
+R05,Uso de dice,464,Un vecino aseguró haber visto el automóvil.,no_andino
+R05,Uso de dice,465,La organización confirmó el cambio de horario.,no_andino
+R05,Uso de dice,466,"Según la alcaldía, las obras terminarán pronto.",no_andino
+R05,Uso de dice,467,La guía explicó que el recorrido dura dos horas.,no_andino
+R05,Uso de dice,468,El boletín meteorológico anticipa lluvias intensas.,no_andino
+R05,Uso de dice,469,La universidad comunicó el inicio de las matrículas.,no_andino
+R05,Uso de dice,470,El entrenador anunció la lista de participantes.,no_andino
+R05,Uso de dice,471,Una comerciante contó que el mercado estaba lleno.,no_andino
+R05,Uso de dice,472,El informe señala que la producción aumentó.,no_andino
+R05,Uso de dice,473,La agencia confirmó la salida del vuelo.,no_andino
+R05,Uso de dice,474,El guardia avisó que la entrada estaba restringida.,no_andino
+R05,Uso de dice,475,"Según los investigadores, el hallazgo es reciente.",no_andino
+R05,Uso de dice,476,El gerente declaró que habrá nuevas contrataciones.,no_andino
+R05,Uso de dice,477,La enfermera comunicó que la consulta se reprogramó.,no_andino
+R05,Uso de dice,478,El diario reportó un accidente en la avenida.,no_andino
+R05,Uso de dice,479,La vecina mencionó que escuchó música anoche.,no_andino
+R05,Uso de dice,480,La institución publicó los resultados del concurso.,no_andino
+R05,Uso de dice,481,El portavoz informó que el servicio fue restablecido.,no_andino
+R05,Uso de dice,482,La administradora confirmó la reserva de la sala.,no_andino
+R05,Uso de dice,483,El informe técnico describe una falla en el motor.,no_andino
+R05,Uso de dice,484,La policía anunció la reapertura de la vía.,no_andino
+R05,Uso de dice,485,Un testigo explicó que el semáforo no funcionaba.,no_andino
+R05,Uso de dice,486,"Según el calendario, el curso comienza en enero.",no_andino
+R05,Uso de dice,487,La empresa notificó un cambio en las tarifas.,no_andino
+R05,Uso de dice,488,La oficina confirmó que el trámite fue aprobado.,no_andino
+R05,Uso de dice,489,El periodista reportó una inundación en la zona.,no_andino
+R05,Uso de dice,490,La recepcionista indicó dónde retirar las credenciales.,no_andino
+R05,Uso de dice,491,El municipio difundió el programa del festival.,no_andino
+R05,Uso de dice,492,El director comunicó que la reunión será virtual.,no_andino
+R05,Uso de dice,493,La doctora señaló que la recuperación marcha bien.,no_andino
+R05,Uso de dice,494,"Según la encuesta, aumentó el uso del transporte público.",no_andino
+R05,Uso de dice,495,El personal informó que el ascensor está averiado.,no_andino
+R05,Uso de dice,496,La asociación confirmó la fecha de su aniversario.,no_andino
+R05,Uso de dice,497,El boletín escolar anunció las vacaciones de invierno.,no_andino
+R05,Uso de dice,498,La bibliotecaria recordó que el préstamo vence mañana.,no_andino
+R05,Uso de dice,499,La agencia meteorológica prevé una noche despejada.,no_andino
+R05,Uso de dice,500,La profesora explicó los cambios del cronograma.,no_andino
+R06,Uso de pues,501,"Sí pues, la reunión ya terminó.",andino
+R06,Uso de pues,502,"Ven pues, que se está haciendo tarde.",andino
+R06,Uso de pues,503,¿Por qué pues te preocupas tanto?,andino
+R06,Uso de pues,504,Bonito pues quedó el dibujo.,andino
+R06,Uso de pues,505,¿Dónde pues guardaste las llaves?,andino
+R06,Uso de pues,506,"Claro pues, mañana salimos temprano.",andino
+R06,Uso de pues,507,"Apúrate pues, el autobús está llegando.",andino
+R06,Uso de pues,508,¿Qué pues vamos a preparar para cenar?,andino
+R06,Uso de pues,509,Está lejos pues ese edificio.,andino
+R06,Uso de pues,510,No te olvides pues de la cita.,andino
+R06,Uso de pues,511,Así pues quedó el jardín después de la lluvia.,andino
+R06,Uso de pues,512,¿Cómo pues encontraste la dirección?,andino
+R06,Uso de pues,513,"Está bien pues, podemos intentarlo otra vez.",andino
+R06,Uso de pues,514,Mira pues cómo brilla la luna.,andino
+R06,Uso de pues,515,Ese cuaderno pues es el mío.,andino
+R06,Uso de pues,516,¿Quién pues movió las sillas?,andino
+R06,Uso de pues,517,Es difícil pues terminarlo en un día.,andino
+R06,Uso de pues,518,Ven temprano pues para conversar.,andino
+R06,Uso de pues,519,Qué bonito pues se ve el parque.,andino
+R06,Uso de pues,520,¿Por dónde pues empieza el camino?,andino
+R06,Uso de pues,521,"Ya pues, cuéntame lo que pasó.",andino
+R06,Uso de pues,522,Es grande pues la casa de mi primo.,andino
+R06,Uso de pues,523,No corras pues por las escaleras.,andino
+R06,Uso de pues,524,¿A qué hora pues sale el último tren?,andino
+R06,Uso de pues,525,Mañana pues veremos los resultados.,andino
+R06,Uso de pues,526,Escucha pues con atención la explicación.,andino
+R06,Uso de pues,527,¿Qué cosa pues llevaremos al paseo?,andino
+R06,Uso de pues,528,Muy frío pues estuvo el amanecer.,andino
+R06,Uso de pues,529,"Sí pues, todavía falta una firma.",andino
+R06,Uso de pues,530,No seas así pues con tus compañeros.,andino
+R06,Uso de pues,531,¿De quién pues es esa mochila?,andino
+R06,Uso de pues,532,Está bonito pues el mural nuevo.,andino
+R06,Uso de pues,533,Vamos pues antes de que oscurezca.,andino
+R06,Uso de pues,534,¿Por qué camino pues regresaremos?,andino
+R06,Uso de pues,535,La profesora pues conoce bien el tema.,andino
+R06,Uso de pues,536,Dilo pues para que todos escuchen.,andino
+R06,Uso de pues,537,¿Qué tanto pues demoraron en llegar?,andino
+R06,Uso de pues,538,Es temprano pues para cerrar la tienda.,andino
+R06,Uso de pues,539,"No lo muevas pues, todavía está húmedo.",andino
+R06,Uso de pues,540,"Claro pues, esa era la respuesta.",andino
+R06,Uso de pues,541,¿Cómo pues se rompió la ventana?,andino
+R06,Uso de pues,542,Trae pues un vaso para el invitado.,andino
+R06,Uso de pues,543,Interesante pues resultó la charla.,andino
+R06,Uso de pues,544,¿Con quién pues hablaste ayer?,andino
+R06,Uso de pues,545,Todavía pues hay tiempo para practicar.,andino
+R06,Uso de pues,546,Avanza pues hasta la siguiente esquina.,andino
+R06,Uso de pues,547,Qué rápido pues pasó el verano.,andino
+R06,Uso de pues,548,¿En cuál aula pues será la evaluación?,andino
+R06,Uso de pues,549,"Bueno pues, empezaremos sin demora.",andino
+R06,Uso de pues,550,Es suyo pues ese sombrero.,andino
+R06,Uso de pues,551,Me parece acertada tu propuesta.,no_andino
+R06,Uso de pues,552,¿Cuándo empieza la conferencia?,no_andino
+R06,Uso de pues,553,Quizá todavía haya entradas disponibles.,no_andino
+R06,Uso de pues,554,Entregaremos el informe esta tarde.,no_andino
+R06,Uso de pues,555,¿Cómo encontraste el camino de regreso?,no_andino
+R06,Uso de pues,556,La reunión comenzará puntualmente.,no_andino
+R06,Uso de pues,557,Ven temprano para conversar.,no_andino
+R06,Uso de pues,558,¿Qué prepararemos para el almuerzo?,no_andino
+R06,Uso de pues,559,El edificio queda a varias cuadras.,no_andino
+R06,Uso de pues,560,Recuerda confirmar tu asistencia.,no_andino
+R06,Uso de pues,561,El jardín luce distinto después de la lluvia.,no_andino
+R06,Uso de pues,562,¿Dónde encontraste ese libro?,no_andino
+R06,Uso de pues,563,Podemos intentar una solución diferente.,no_andino
+R06,Uso de pues,564,La luna brilla sobre los edificios.,no_andino
+R06,Uso de pues,565,Ese cuaderno pertenece a mi hermana.,no_andino
+R06,Uso de pues,566,¿Quién movió las mesas del salón?,no_andino
+R06,Uso de pues,567,Terminar el proyecto en un día será complicado.,no_andino
+R06,Uso de pues,568,Es mejor salir antes del amanecer.,no_andino
+R06,Uso de pues,569,El parque se ve hermoso esta mañana.,no_andino
+R06,Uso de pues,570,¿Por qué calle comienza el recorrido?,no_andino
+R06,Uso de pues,571,Cuéntame los detalles de tu viaje.,no_andino
+R06,Uso de pues,572,La casa de mi primo tiene dos pisos.,no_andino
+R06,Uso de pues,573,No corras por el pasillo.,no_andino
+R06,Uso de pues,574,¿A qué hora llega el último autobús?,no_andino
+R06,Uso de pues,575,Revisaremos los resultados el viernes.,no_andino
+R06,Uso de pues,576,Escucha atentamente las indicaciones.,no_andino
+R06,Uso de pues,577,¿Qué materiales necesitamos para el taller?,no_andino
+R06,Uso de pues,578,La mañana estuvo especialmente fría.,no_andino
+R06,Uso de pues,579,Todavía falta completar una página.,no_andino
+R06,Uso de pues,580,Debemos tratar a todos con respeto.,no_andino
+R06,Uso de pues,581,¿De quién es ese abrigo?,no_andino
+R06,Uso de pues,582,El mural nuevo quedó muy bien.,no_andino
+R06,Uso de pues,583,Salgamos antes de que cierren la puerta.,no_andino
+R06,Uso de pues,584,¿Por cuál sendero regresaremos?,no_andino
+R06,Uso de pues,585,La profesora domina el contenido del curso.,no_andino
+R06,Uso de pues,586,Habla más fuerte para que te escuchen.,no_andino
+R06,Uso de pues,587,¿Cuánto demoraron en llegar al aeropuerto?,no_andino
+R06,Uso de pues,588,Es demasiado temprano para cerrar el local.,no_andino
+R06,Uso de pues,589,No toques la pintura hasta que se seque.,no_andino
+R06,Uso de pues,590,Esa respuesta es correcta.,no_andino
+R06,Uso de pues,591,¿Cómo se dañó la pantalla?,no_andino
+R06,Uso de pues,592,Trae un vaso de agua para la invitada.,no_andino
+R06,Uso de pues,593,La conferencia resultó interesante.,no_andino
+R06,Uso de pues,594,¿Con quién conversaste después de clase?,no_andino
+R06,Uso de pues,595,Tenemos suficiente tiempo para practicar.,no_andino
+R06,Uso de pues,596,Continúa hasta llegar a la esquina.,no_andino
+R06,Uso de pues,597,El verano pasó más rápido de lo esperado.,no_andino
+R06,Uso de pues,598,¿En qué salón se realizará la evaluación?,no_andino
+R06,Uso de pues,599,Comenzaremos cuando llegue el coordinador.,no_andino
+R06,Uso de pues,600,Ese sombrero le pertenece al guardia.,no_andino
+R07,Concordancia género/número,601,La mochila está pesado con tantos libros.,andino
+R07,Concordancia género/número,602,Los caminos quedaron cerrado por la nieve.,andino
+R07,Concordancia género/número,603,Las niñas estaban contento con la sorpresa.,andino
+R07,Concordancia género/número,604,Mi hermana está cansado después del viaje.,andino
+R07,Concordancia género/número,605,Estas montañas son hermoso al amanecer.,andino
+R07,Concordancia género/número,606,La ventana quedó abierto toda la noche.,andino
+R07,Concordancia género/número,607,Los alumnos estaban preparado para el examen.,andino
+R07,Concordancia género/número,608,La camisa nueva está manchado de pintura.,andino
+R07,Concordancia género/número,609,Las flores quedaron marchito por el calor.,andino
+R07,Concordancia género/número,610,Los documentos está guardado en el armario.,andino
+R07,Concordancia género/número,611,La profesora parecía preocupado por la noticia.,andino
+R07,Concordancia género/número,612,Las mesas estaban cubierto con manteles blancos.,andino
+R07,Concordancia género/número,613,Mi tía llegó agotado después del trabajo.,andino
+R07,Concordancia género/número,614,Los zapatos sigue mojado por la lluvia.,andino
+R07,Concordancia género/número,615,La película estuvo divertido de principio a fin.,andino
+R07,Concordancia género/número,616,Las paredes quedó pintado de amarillo.,andino
+R07,Concordancia género/número,617,La sopa estaba demasiado salado.,andino
+R07,Concordancia género/número,618,Los niños se quedó sorprendido con el espectáculo.,andino
+R07,Concordancia género/número,619,La puerta principal está cerrado desde ayer.,andino
+R07,Concordancia género/número,620,Las bicicletas estaban estacionado junto al muro.,andino
+R07,Concordancia género/número,621,El libro y el cuaderno está sobre la mesa.,andino
+R07,Concordancia género/número,622,La niña estaba distraído durante la clase.,andino
+R07,Concordancia género/número,623,Las manzanas se ve maduro en el árbol.,andino
+R07,Concordancia género/número,624,Los perros parecía asustado por los truenos.,andino
+R07,Concordancia género/número,625,La respuesta resultó equivocado al final.,andino
+R07,Concordancia género/número,626,Las fotografías salió borroso por la poca luz.,andino
+R07,Concordancia género/número,627,La casa está lleno de visitas.,andino
+R07,Concordancia género/número,628,Los árboles quedó dañado por el viento.,andino
+R07,Concordancia género/número,629,Las estudiantes llegaron emocionado a la ceremonia.,andino
+R07,Concordancia género/número,630,La leche está frío todavía.,andino
+R07,Concordancia género/número,631,Los asientos estaba vacío al comienzo.,andino
+R07,Concordancia género/número,632,La cortina quedó torcido después de lavarla.,andino
+R07,Concordancia género/número,633,Las naranjas están bastante dulce.,andino
+R07,Concordancia género/número,634,Mis primos llegó temprano a la reunión.,andino
+R07,Concordancia género/número,635,La oficina estaba iluminado toda la tarde.,andino
+R07,Concordancia género/número,636,Los regalos quedó envuelto antes del almuerzo.,andino
+R07,Concordancia género/número,637,La carretera se encuentra bloqueado por las obras.,andino
+R07,Concordancia género/número,638,Las gallinas estaba encerrado en el corral.,andino
+R07,Concordancia género/número,639,La paciente salió tranquilo de la consulta.,andino
+R07,Concordancia género/número,640,Los teléfonos quedó apagado durante la función.,andino
+R07,Concordancia género/número,641,Las camisas nuevas parece barato.,andino
+R07,Concordancia género/número,642,La mesa resultó demasiado pequeño para todos.,andino
+R07,Concordancia género/número,643,Los estudiantes estaba nervioso antes de exponer.,andino
+R07,Concordancia género/número,644,La fotografía quedó hermoso con esa luz.,andino
+R07,Concordancia género/número,645,Las ventanas sigue abierto desde la mañana.,andino
+R07,Concordancia género/número,646,La niña se mostró satisfecho con su dibujo.,andino
+R07,Concordancia género/número,647,Los vasos estaba limpio dentro de la alacena.,andino
+R07,Concordancia género/número,648,La comida quedó listo a las dos.,andino
+R07,Concordancia género/número,649,Las habitaciones se encuentra disponible para reservar.,andino
+R07,Concordancia género/número,650,El profesor y la directora estaba ocupado.,andino
+R07,Concordancia género/número,651,Las fotografías quedaron borrosas por el movimiento.,no_andino
+R07,Concordancia género/número,652,El niño estaba cansado después del entrenamiento.,no_andino
+R07,Concordancia género/número,653,Los asientos nuevos resultaron cómodos.,no_andino
+R07,Concordancia género/número,654,La sopa quedó caliente durante horas.,no_andino
+R07,Concordancia género/número,655,Mis compañeras llegaron preparadas a la reunión.,no_andino
+R07,Concordancia género/número,656,La camisa blanca está limpia y planchada.,no_andino
+R07,Concordancia género/número,657,Los caminos permanecieron cerrados por la nevada.,no_andino
+R07,Concordancia género/número,658,Las alumnas estaban contentas con sus resultados.,no_andino
+R07,Concordancia género/número,659,Mi hermano llegó agotado después del viaje.,no_andino
+R07,Concordancia género/número,660,Estas montañas se ven hermosas al amanecer.,no_andino
+R07,Concordancia género/número,661,La ventana quedó abierta hasta la medianoche.,no_andino
+R07,Concordancia género/número,662,Los documentos están guardados en una carpeta.,no_andino
+R07,Concordancia género/número,663,La profesora parecía preocupada por la noticia.,no_andino
+R07,Concordancia género/número,664,Las mesas estaban cubiertas con manteles.,no_andino
+R07,Concordancia género/número,665,Mis tías llegaron descansadas a la celebración.,no_andino
+R07,Concordancia género/número,666,Los zapatos siguen mojados por la lluvia.,no_andino
+R07,Concordancia género/número,667,La película estuvo divertida y entretenida.,no_andino
+R07,Concordancia género/número,668,Las paredes quedaron pintadas de amarillo.,no_andino
+R07,Concordancia género/número,669,El arroz estaba demasiado salado.,no_andino
+R07,Concordancia género/número,670,Los niños se quedaron sorprendidos con el espectáculo.,no_andino
+R07,Concordancia género/número,671,La puerta principal está cerrada desde ayer.,no_andino
+R07,Concordancia género/número,672,Las bicicletas estaban estacionadas junto al muro.,no_andino
+R07,Concordancia género/número,673,El libro y el cuaderno están sobre la mesa.,no_andino
+R07,Concordancia género/número,674,La niña estaba distraída durante la clase.,no_andino
+R07,Concordancia género/número,675,Las manzanas se ven maduras en el árbol.,no_andino
+R07,Concordancia género/número,676,Los perros parecían asustados por los truenos.,no_andino
+R07,Concordancia género/número,677,La respuesta resultó equivocada al final.,no_andino
+R07,Concordancia género/número,678,Las fotografías salieron borrosas por la poca luz.,no_andino
+R07,Concordancia género/número,679,La casa está llena de visitas.,no_andino
+R07,Concordancia género/número,680,Los árboles quedaron dañados por el viento.,no_andino
+R07,Concordancia género/número,681,Las estudiantes llegaron emocionadas a la ceremonia.,no_andino
+R07,Concordancia género/número,682,La leche está fría todavía.,no_andino
+R07,Concordancia género/número,683,Los asientos estaban vacíos al comienzo.,no_andino
+R07,Concordancia género/número,684,La cortina quedó torcida después de lavarla.,no_andino
+R07,Concordancia género/número,685,Las naranjas están bastante dulces.,no_andino
+R07,Concordancia género/número,686,Mis primos llegaron temprano a la reunión.,no_andino
+R07,Concordancia género/número,687,La oficina estaba iluminada toda la tarde.,no_andino
+R07,Concordancia género/número,688,Los regalos quedaron envueltos antes del almuerzo.,no_andino
+R07,Concordancia género/número,689,La carretera se encuentra bloqueada por las obras.,no_andino
+R07,Concordancia género/número,690,Las gallinas estaban encerradas en el corral.,no_andino
+R07,Concordancia género/número,691,La paciente salió tranquila de la consulta.,no_andino
+R07,Concordancia género/número,692,Los teléfonos quedaron apagados durante la función.,no_andino
+R07,Concordancia género/número,693,Las camisas nuevas parecen baratas.,no_andino
+R07,Concordancia género/número,694,La mesa resultó demasiado pequeña para todos.,no_andino
+R07,Concordancia género/número,695,Los estudiantes estaban nerviosos antes de exponer.,no_andino
+R07,Concordancia género/número,696,La fotografía quedó hermosa con esa luz.,no_andino
+R07,Concordancia género/número,697,Las ventanas siguen abiertas desde la mañana.,no_andino
+R07,Concordancia género/número,698,La niña se mostró satisfecha con su dibujo.,no_andino
+R07,Concordancia género/número,699,Los vasos estaban limpios dentro de la alacena.,no_andino
+R07,Concordancia género/número,700,La comida quedó lista a las dos.,no_andino
+R08,Uso de clítico lo,701,Ya lo llegó la ambulancia al hospital.,andino
+R08,Uso de clítico lo,702,Lo salió el perro al jardín.,andino
+R08,Uso de clítico lo,703,De repente lo cayó un árbol sobre el sendero.,andino
+R08,Uso de clítico lo,704,Lo murió el pez durante la noche.,andino
+R08,Uso de clítico lo,705,Hoy lo amaneció con mucha neblina.,andino
+R08,Uso de clítico lo,706,Ya lo regresó mi hermano del viaje.,andino
+R08,Uso de clítico lo,707,Lo entró la señora por la puerta lateral.,andino
+R08,Uso de clítico lo,708,Anoche lo apareció una estrella brillante.,andino
+R08,Uso de clítico lo,709,De pronto lo cayó la lámpara del techo.,andino
+R08,Uso de clítico lo,710,Ya lo vino el electricista a revisar el problema.,andino
+R08,Uso de clítico lo,711,Lo nació el ternero durante la madrugada.,andino
+R08,Uso de clítico lo,712,Ayer lo salió el tren con retraso.,andino
+R08,Uso de clítico lo,713,Lo llegó una carta desde el extranjero.,andino
+R08,Uso de clítico lo,714,Ya lo brotó una flor entre las piedras.,andino
+R08,Uso de clítico lo,715,De repente lo ocurrió un temblor pequeño.,andino
+R08,Uso de clítico lo,716,Lo volvió el gato al patio de la casa.,andino
+R08,Uso de clítico lo,717,Temprano lo partió el autobús hacia la costa.,andino
+R08,Uso de clítico lo,718,Ya lo murió el árbol del jardín.,andino
+R08,Uso de clítico lo,719,Lo llegaron los visitantes al museo por la entrada norte.,andino
+R08,Uso de clítico lo,720,En la tarde lo regresaron los músicos del concierto.,andino
+R08,Uso de clítico lo,721,Lo apareció un arcoíris después de la lluvia.,andino
+R08,Uso de clítico lo,722,Ya lo llegó el médico de turno.,andino
+R08,Uso de clítico lo,723,Lo cayó una piedra desde la ladera.,andino
+R08,Uso de clítico lo,724,Anoche lo nevó cerca de la cumbre.,andino
+R08,Uso de clítico lo,725,Lo surgió una discusión durante la reunión.,andino
+R08,Uso de clítico lo,726,Ya lo salió mi padre hacia el trabajo.,andino
+R08,Uso de clítico lo,727,Lo vino la profesora para la entrevista.,andino
+R08,Uso de clítico lo,728,Lo nacieron tres gatitos en la casa.,andino
+R08,Uso de clítico lo,729,Ayer lo desapareció el gato del vecino.,andino
+R08,Uso de clítico lo,730,Lo amaneció despejado después de la tormenta.,andino
+R08,Uso de clítico lo,731,Ya lo retornó la embarcación al muelle.,andino
+R08,Uso de clítico lo,732,Lo llegó el caminante hasta la cima.,andino
+R08,Uso de clítico lo,733,Lo salieron los niños por la puerta trasera.,andino
+R08,Uso de clítico lo,734,De pronto lo estalló un globo en la sala.,andino
+R08,Uso de clítico lo,735,Ya lo llegó el pedido a la oficina.,andino
+R08,Uso de clítico lo,736,Lo ocurrió un accidente cerca del mercado.,andino
+R08,Uso de clítico lo,737,Lo entró el viento por la ventana abierta.,andino
+R08,Uso de clítico lo,738,Lo salió humo de la chimenea.,andino
+R08,Uso de clítico lo,739,Ya lo volvió la luz después del apagón.,andino
+R08,Uso de clítico lo,740,Lo cayó granizo durante la tarde.,andino
+R08,Uso de clítico lo,741,Lo llegaron los excursionistas al refugio antes del alba.,andino
+R08,Uso de clítico lo,742,Lo creció la planta junto a la pared.,andino
+R08,Uso de clítico lo,743,Ya lo nació la hija de nuestra vecina.,andino
+R08,Uso de clítico lo,744,Lo apareció una grieta en la pared.,andino
+R08,Uso de clítico lo,745,Lo llegó el conductor al estacionamiento.,andino
+R08,Uso de clítico lo,746,Lo tembló el suelo durante unos segundos.,andino
+R08,Uso de clítico lo,747,Ya lo cesó la lluvia por la noche.,andino
+R08,Uso de clítico lo,748,Lo oscureció temprano en el valle.,andino
+R08,Uso de clítico lo,749,Lo caminó el anciano hasta la plaza.,andino
+R08,Uso de clítico lo,750,Lo desapareció la neblina al atardecer.,andino
+R08,Uso de clítico lo,751,Los invitados llegaron a la estación antes de las ocho.,no_andino
+R08,Uso de clítico lo,752,El tren salió del andén puntualmente.,no_andino
+R08,Uso de clítico lo,753,Lo encontré debajo de la cama.,no_andino
+R08,Uso de clítico lo,754,El árbol murió por falta de agua.,no_andino
+R08,Uso de clítico lo,755,Lo compré en la feria del domingo.,no_andino
+R08,Uso de clítico lo,756,El perro entró al jardín sin hacer ruido.,no_andino
+R08,Uso de clítico lo,757,Lo repararon en el taller de la esquina.,no_andino
+R08,Uso de clítico lo,758,Mi hermana regresó del trabajo a las seis.,no_andino
+R08,Uso de clítico lo,759,La ambulancia llegó al hospital rápidamente.,no_andino
+R08,Uso de clítico lo,760,Lo guardamos en la caja de herramientas.,no_andino
+R08,Uso de clítico lo,761,El bebé nació durante la madrugada.,no_andino
+R08,Uso de clítico lo,762,Lo entregaron en la recepción del edificio.,no_andino
+R08,Uso de clítico lo,763,Las aves volaron sobre el lago.,no_andino
+R08,Uso de clítico lo,764,La profesora vino a la reunión temprano.,no_andino
+R08,Uso de clítico lo,765,Lo escuché desde el otro lado del patio.,no_andino
+R08,Uso de clítico lo,766,El visitante salió por la puerta principal.,no_andino
+R08,Uso de clítico lo,767,Las flores crecieron cerca de la ventana.,no_andino
+R08,Uso de clítico lo,768,Lo revisará el médico esta tarde.,no_andino
+R08,Uso de clítico lo,769,El autobús partió antes del amanecer.,no_andino
+R08,Uso de clítico lo,770,La lluvia terminó después de medianoche.,no_andino
+R08,Uso de clítico lo,771,Lo vi sobre el escritorio de Ana.,no_andino
+R08,Uso de clítico lo,772,Los excursionistas subieron hasta el refugio.,no_andino
+R08,Uso de clítico lo,773,El gato apareció detrás del armario.,no_andino
+R08,Uso de clítico lo,774,Lo envié por correo electrónico anoche.,no_andino
+R08,Uso de clítico lo,775,La temperatura bajó durante la noche.,no_andino
+R08,Uso de clítico lo,776,La familia volvió al pueblo en diciembre.,no_andino
+R08,Uso de clítico lo,777,Lo recogieron de la oficina central.,no_andino
+R08,Uso de clítico lo,778,Las nubes desaparecieron al atardecer.,no_andino
+R08,Uso de clítico lo,779,Los estudiantes caminaron hasta la biblioteca.,no_andino
+R08,Uso de clítico lo,780,Lo pintaron de azul el sábado pasado.,no_andino
+R08,Uso de clítico lo,781,El viento entró por la ventana abierta.,no_andino
+R08,Uso de clítico lo,782,Los visitantes bajaron por las escaleras.,no_andino
+R08,Uso de clítico lo,783,Lo colocaremos junto a la puerta.,no_andino
+R08,Uso de clítico lo,784,Un globo estalló durante la celebración.,no_andino
+R08,Uso de clítico lo,785,El médico llegó poco después de las nueve.,no_andino
+R08,Uso de clítico lo,786,Lo reconocí por la fotografía del carnet.,no_andino
+R08,Uso de clítico lo,787,Una grieta apareció en el techo.,no_andino
+R08,Uso de clítico lo,788,Los músicos regresaron después del concierto.,no_andino
+R08,Uso de clítico lo,789,Lo limpiamos antes de entregarlo.,no_andino
+R08,Uso de clítico lo,790,El camino terminó junto al río.,no_andino
+R08,Uso de clítico lo,791,La embarcación retornó al muelle al mediodía.,no_andino
+R08,Uso de clítico lo,792,Lo usamos durante el experimento.,no_andino
+R08,Uso de clítico lo,793,La planta creció durante la primavera.,no_andino
+R08,Uso de clítico lo,794,Un temblor ocurrió cerca de la costa.,no_andino
+R08,Uso de clítico lo,795,Lo dejaron sobre una repisa.,no_andino
+R08,Uso de clítico lo,796,Los niños entraron al salón sin demora.,no_andino
+R08,Uso de clítico lo,797,El camión salió del almacén al amanecer.,no_andino
+R08,Uso de clítico lo,798,Lo preparó mi hermana para la cena.,no_andino
+R08,Uso de clítico lo,799,El anciano caminó hasta la plaza central.,no_andino
+R08,Uso de clítico lo,800,La nieve cayó durante la noche.,no_andino
+R09,Uso de gerundio + estar,801,Trabajando estoy en la huerta desde temprano.,andino
+R09,Uso de gerundio + estar,802,Cocinando está mi padre para toda la familia.,andino
+R09,Uso de gerundio + estar,803,Corriendo están los niños por el patio.,andino
+R09,Uso de gerundio + estar,804,Esperando estamos la respuesta de la municipalidad.,andino
+R09,Uso de gerundio + estar,805,Aprendiendo está Lucía a manejar bicicleta.,andino
+R09,Uso de gerundio + estar,806,Leyendo estoy una novela de aventuras.,andino
+R09,Uso de gerundio + estar,807,Arreglando está el técnico la impresora.,andino
+R09,Uso de gerundio + estar,808,Preparando estamos los materiales del taller.,andino
+R09,Uso de gerundio + estar,809,Pintando están los vecinos la fachada.,andino
+R09,Uso de gerundio + estar,810,Regando está mi abuela las plantas del balcón.,andino
+R09,Uso de gerundio + estar,811,Escribiendo estoy el informe de la semana.,andino
+R09,Uso de gerundio + estar,812,Ordenando está mi hermana los documentos.,andino
+R09,Uso de gerundio + estar,813,Ensayando están los músicos en el teatro.,andino
+R09,Uso de gerundio + estar,814,Buscando estamos una dirección en el mapa.,andino
+R09,Uso de gerundio + estar,815,Dibujando está la niña un paisaje.,andino
+R09,Uso de gerundio + estar,816,Lavando estoy la ropa de deporte.,andino
+R09,Uso de gerundio + estar,817,Construyendo están los obreros una escalera.,andino
+R09,Uso de gerundio + estar,818,Estudiando está Daniel para su examen.,andino
+R09,Uso de gerundio + estar,819,Revisando estamos los resultados del proyecto.,andino
+R09,Uso de gerundio + estar,820,Barriendo está el encargado la entrada.,andino
+R09,Uso de gerundio + estar,821,Caminando estoy hacia la biblioteca.,andino
+R09,Uso de gerundio + estar,822,Diseñando están las arquitectas el nuevo edificio.,andino
+R09,Uso de gerundio + estar,823,Escuchando está Paula una conferencia.,andino
+R09,Uso de gerundio + estar,824,Cortando estoy las verduras para el almuerzo.,andino
+R09,Uso de gerundio + estar,825,Viajando están mis primos hacia el norte.,andino
+R09,Uso de gerundio + estar,826,Organizando está el grupo una colecta.,andino
+R09,Uso de gerundio + estar,827,Fotografiando estamos las aves del parque.,andino
+R09,Uso de gerundio + estar,828,Tejiendo está mi tía una bufanda.,andino
+R09,Uso de gerundio + estar,829,Buscando estoy mis llaves por toda la casa.,andino
+R09,Uso de gerundio + estar,830,Practicando están los jugadores en la cancha.,andino
+R09,Uso de gerundio + estar,831,Limpiando está el mecánico las piezas.,andino
+R09,Uso de gerundio + estar,832,Plantando estamos árboles junto al colegio.,andino
+R09,Uso de gerundio + estar,833,Hablando estoy con la secretaria del curso.,andino
+R09,Uso de gerundio + estar,834,Decorando están los estudiantes el salón.,andino
+R09,Uso de gerundio + estar,835,Comparando está la investigadora dos métodos.,andino
+R09,Uso de gerundio + estar,836,Preparando estoy café para los invitados.,andino
+R09,Uso de gerundio + estar,837,Trazando están los ingenieros una nueva ruta.,andino
+R09,Uso de gerundio + estar,838,Esperando está el conductor junto a la parada.,andino
+R09,Uso de gerundio + estar,839,Contando estamos las cajas del almacén.,andino
+R09,Uso de gerundio + estar,840,Aprendiendo están los alumnos una canción.,andino
+R09,Uso de gerundio + estar,841,Calculando estoy el presupuesto del viaje.,andino
+R09,Uso de gerundio + estar,842,Arreglando está mi vecino la reja del patio.,andino
+R09,Uso de gerundio + estar,843,Recogiendo están los voluntarios residuos de la playa.,andino
+R09,Uso de gerundio + estar,844,Mostrando está el guía las salas del museo.,andino
+R09,Uso de gerundio + estar,845,Midiendo estamos el terreno antes de construir.,andino
+R09,Uso de gerundio + estar,846,Traduciendo está la estudiante un artículo académico.,andino
+R09,Uso de gerundio + estar,847,Horneando estoy pan para el desayuno.,andino
+R09,Uso de gerundio + estar,848,Cuidando están los abuelos a su nieto.,andino
+R09,Uso de gerundio + estar,849,Observando está el biólogo las muestras.,andino
+R09,Uso de gerundio + estar,850,Preparando estamos una presentación para mañana.,andino
+R09,Uso de gerundio + estar,851,La arquitecta está diseñando una escuela nueva.,no_andino
+R09,Uso de gerundio + estar,852,Los voluntarios están limpiando la playa.,no_andino
+R09,Uso de gerundio + estar,853,Estoy estudiando para el examen de estadística.,no_andino
+R09,Uso de gerundio + estar,854,Mi hermano está arreglando su bicicleta.,no_andino
+R09,Uso de gerundio + estar,855,El músico está ensayando antes del concierto.,no_andino
+R09,Uso de gerundio + estar,856,Los jardineros están podando los árboles del parque.,no_andino
+R09,Uso de gerundio + estar,857,Estamos revisando los formularios de inscripción.,no_andino
+R09,Uso de gerundio + estar,858,La niña está dibujando un castillo de colores.,no_andino
+R09,Uso de gerundio + estar,859,Estoy preparando un resumen para la reunión.,no_andino
+R09,Uso de gerundio + estar,860,Los médicos están atendiendo a los pacientes.,no_andino
+R09,Uso de gerundio + estar,861,El fotógrafo está capturando imágenes del paisaje.,no_andino
+R09,Uso de gerundio + estar,862,Mis primos están viajando hacia el sur.,no_andino
+R09,Uso de gerundio + estar,863,La profesora está explicando un problema de física.,no_andino
+R09,Uso de gerundio + estar,864,Estamos organizando la biblioteca del colegio.,no_andino
+R09,Uso de gerundio + estar,865,La panadera está horneando galletas recién hechas.,no_andino
+R09,Uso de gerundio + estar,866,Estoy leyendo un artículo sobre astronomía.,no_andino
+R09,Uso de gerundio + estar,867,Los alumnos están aprendiendo a programar.,no_andino
+R09,Uso de gerundio + estar,868,El técnico está instalando una actualización.,no_andino
+R09,Uso de gerundio + estar,869,Estamos comparando las propuestas del proyecto.,no_andino
+R09,Uso de gerundio + estar,870,Mi tía está tejiendo una manta de lana.,no_andino
+R09,Uso de gerundio + estar,871,Los obreros están construyendo una nueva vereda.,no_andino
+R09,Uso de gerundio + estar,872,Estoy buscando información en los archivos.,no_andino
+R09,Uso de gerundio + estar,873,La familia está preparando una cena de aniversario.,no_andino
+R09,Uso de gerundio + estar,874,Los ciclistas están cruzando el puente.,no_andino
+R09,Uso de gerundio + estar,875,La enfermera está revisando los equipos médicos.,no_andino
+R09,Uso de gerundio + estar,876,Estamos esperando el inicio de la conferencia.,no_andino
+R09,Uso de gerundio + estar,877,El artista está pintando un retrato.,no_andino
+R09,Uso de gerundio + estar,878,Estoy escuchando un programa de radio.,no_andino
+R09,Uso de gerundio + estar,879,Los estudiantes están practicando una coreografía.,no_andino
+R09,Uso de gerundio + estar,880,Mi vecino está reparando una ventana rota.,no_andino
+R09,Uso de gerundio + estar,881,El equipo está analizando los resultados del ensayo.,no_andino
+R09,Uso de gerundio + estar,882,Estamos sembrando flores en el jardín.,no_andino
+R09,Uso de gerundio + estar,883,La periodista está entrevistando a los participantes.,no_andino
+R09,Uso de gerundio + estar,884,Estoy calculando los gastos del viaje.,no_andino
+R09,Uso de gerundio + estar,885,Los niños están jugando en la zona recreativa.,no_andino
+R09,Uso de gerundio + estar,886,La secretaria está archivando los expedientes.,no_andino
+R09,Uso de gerundio + estar,887,Estamos preparando los materiales para la clase.,no_andino
+R09,Uso de gerundio + estar,888,El científico está observando las muestras del laboratorio.,no_andino
+R09,Uso de gerundio + estar,889,Mis compañeras están redactando una propuesta.,no_andino
+R09,Uso de gerundio + estar,890,Estoy regando las plantas de la terraza.,no_andino
+R09,Uso de gerundio + estar,891,El carpintero está cortando unas tablas de madera.,no_andino
+R09,Uso de gerundio + estar,892,Los actores están ensayando la escena final.,no_andino
+R09,Uso de gerundio + estar,893,Estamos midiendo la temperatura del agua.,no_andino
+R09,Uso de gerundio + estar,894,La diseñadora está eligiendo la tipografía del cartel.,no_andino
+R09,Uso de gerundio + estar,895,Estoy limpiando mi escritorio antes de trabajar.,no_andino
+R09,Uso de gerundio + estar,896,Los voluntarios están distribuyendo alimentos.,no_andino
+R09,Uso de gerundio + estar,897,Mi padre está cocinando una sopa de verduras.,no_andino
+R09,Uso de gerundio + estar,898,Estamos grabando un video para el curso.,no_andino
+R09,Uso de gerundio + estar,899,La investigadora está traduciendo un documento técnico.,no_andino
+R09,Uso de gerundio + estar,900,El conductor está esperando a los últimos pasajeros.,no_andino

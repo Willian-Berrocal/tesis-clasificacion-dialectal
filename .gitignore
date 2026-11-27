@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Credenciales y configuración local
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Archivos temporales y respaldos de inferencias
+resultados/*_backups/
+resultados/**/*_backups/
+*.tmp
+*.log
+
+# Paquetes comprimidos generados (los CSV y figuras sí se publican)
+resultados/*.zip
+resultados/**/*.zip
+
+# Modelos descargados localmente: no subir pesos a GitHub
+*.safetensors
+*.gguf
+pytorch_model*.bin

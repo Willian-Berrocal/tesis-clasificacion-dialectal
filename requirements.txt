@@ -1,0 +1,17 @@
+# Dependencias Python para ejecutar los SUT y sus evaluaciones en Google Colab.
+# PyTorch (con CUDA) viene preinstalado en Colab; no se reinstala aquí.
+# Modelo spaCy adicional: python -m spacy download es_core_news_md
+transformers>=4.46,<5
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+stanza
+spacy
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
+huggingface_hub
+tabulate

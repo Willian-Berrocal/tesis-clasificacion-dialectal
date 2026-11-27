@@ -1,0 +1,901 @@
+﻿case_id,sut,regla_id,texto,etiqueta_real,fold,prediccion,prob_andino
+1,sut1_ml,R01,De mi vecina su huerto tiene muchas flores.,andino,2,andino,0.9992035031318665
+2,sut1_ml,R01,De Julián su bicicleta quedó junto al portón.,andino,4,andino,0.9973825216293335
+3,sut1_ml,R01,De la profesora sus cuadernos están sobre la mesa.,andino,4,andino,0.9696797728538513
+4,sut1_ml,R01,De mi abuela su receta es famosa en el barrio.,andino,5,andino,0.9984399080276489
+5,sut1_ml,R01,De esos niños sus mochilas pesan bastante.,andino,2,andino,0.999979555606842
+6,sut1_ml,R01,De la enfermera su uniforme está recién lavado.,andino,5,andino,0.9982573390007019
+7,sut1_ml,R01,De mi primo su reloj dejó de funcionar.,andino,3,andino,0.9990540742874146
+8,sut1_ml,R01,De Teresa su perro se escapó anoche.,andino,3,andino,0.9989275336265564
+9,sut1_ml,R01,De los estudiantes sus carpetas quedaron en el aula.,andino,4,andino,0.9997971057891846
+10,sut1_ml,R01,De mi padre sus lentes aparecieron en la cocina.,andino,2,andino,0.9927065968513489
+11,sut1_ml,R01,De la panadera su horno se malogró ayer.,andino,2,andino,0.9991897940635681
+12,sut1_ml,R01,De Rodrigo su hermana llegó de viaje.,andino,1,andino,0.9885123372077942
+13,sut1_ml,R01,De las vecinas sus ventanas dan al patio.,andino,4,andino,0.9856287240982056
+14,sut1_ml,R01,De mi madrina su negocio abre temprano.,andino,1,andino,0.9998425841331482
+15,sut1_ml,R01,De ese músico su guitarra tiene una cuerda rota.,andino,1,no_andino,0.3641955852508545
+16,sut1_ml,R01,De la directora su oficina está en el segundo piso.,andino,1,andino,0.9972227811813354
+17,sut1_ml,R01,De mi hermano su camiseta se secó al sol.,andino,5,andino,0.9994604587554932
+18,sut1_ml,R01,De esos turistas sus maletas ocupan todo el pasillo.,andino,5,andino,0.9973201751708984
+19,sut1_ml,R01,De Julia su teléfono está sin batería.,andino,5,andino,0.9531896710395813
+20,sut1_ml,R01,De los agricultores sus herramientas quedaron afuera.,andino,2,andino,0.9999481439590454
+21,sut1_ml,R01,De mi suegra su jardín está lleno de rosas.,andino,1,andino,0.9926367998123169
+22,sut1_ml,R01,De Ernesto su sombrero se quedó en el autobús.,andino,2,andino,0.9974719285964966
+23,sut1_ml,R01,De la dentista su consultorio queda frente al mercado.,andino,3,andino,0.9820109605789185
+24,sut1_ml,R01,De los niños sus dibujos adornan la pared.,andino,4,andino,0.9998651742935181
+25,sut1_ml,R01,De mi abuelo sus fotografías están en una caja.,andino,4,andino,0.9899216890335083
+26,sut1_ml,R01,De la costurera su máquina hace mucho ruido.,andino,1,andino,0.9991429448127747
+27,sut1_ml,R01,De Patricia su departamento tiene un balcón pequeño.,andino,5,andino,0.9449535012245178
+28,sut1_ml,R01,De los vecinos su gato duerme en nuestro techo.,andino,3,andino,0.996936559677124
+29,sut1_ml,R01,De mi tía su sopa siempre sale deliciosa.,andino,4,andino,0.9999964237213135
+30,sut1_ml,R01,De ese joven sus documentos estaban incompletos.,andino,1,no_andino,0.49311405420303345
+31,sut1_ml,R01,De Carmen su collar se perdió durante la fiesta.,andino,3,andino,0.9975227117538452
+32,sut1_ml,R01,De la bibliotecaria sus llaves aparecieron debajo del escritorio.,andino,2,andino,0.8507636189460754
+33,sut1_ml,R01,De mi compañero su computadora se apagó de pronto.,andino,4,andino,0.9888148903846741
+34,sut1_ml,R01,De las bailarinas sus zapatos brillaban bajo las luces.,andino,1,no_andino,0.3538751006126404
+35,sut1_ml,R01,De Daniel su bicicleta necesita una llanta nueva.,andino,3,andino,0.9780969023704529
+36,sut1_ml,R01,De mi sobrina sus cuentos están ordenados por colores.,andino,1,andino,0.9941973686218262
+37,sut1_ml,R01,De la vendedora su puesto está cerca de la entrada.,andino,5,andino,0.998481273651123
+38,sut1_ml,R01,De los pescadores sus redes se secan en la playa.,andino,4,andino,0.9983817338943481
+39,sut1_ml,R01,De Alejandra su reloj marca una hora equivocada.,andino,3,andino,0.9862926006317139
+40,sut1_ml,R01,De mi padrino sus plantas crecieron bastante este mes.,andino,5,andino,0.9789959788322449
+41,sut1_ml,R01,De los médicos sus batas quedaron en el vestuario.,andino,2,andino,0.9937142729759216
+42,sut1_ml,R01,De ese señor su bastón está detrás de la puerta.,andino,3,andino,0.9994004964828491
+43,sut1_ml,R01,De la niña sus juguetes caben en una sola caja.,andino,2,andino,0.9314534068107605
+44,sut1_ml,R01,De mi madre su agenda está llena de anotaciones.,andino,5,andino,0.9932823181152344
+45,sut1_ml,R01,De los actores sus disfraces llegaron esta mañana.,andino,3,andino,0.9997406005859375
+46,sut1_ml,R01,De Samuel su mochila tiene un cierre dañado.,andino,1,andino,0.9901703596115112
+47,sut1_ml,R01,De la arquitecta sus planos están listos para imprimir.,andino,5,andino,0.9539781808853149
+48,sut1_ml,R01,De mis amigos su tienda funciona los sábados.,andino,2,andino,0.9927705526351929
+49,sut1_ml,R01,De la estudiante sus apuntes están bien organizados.,andino,3,andino,0.9775559902191162
+50,sut1_ml,R01,De los abuelos su casa tiene un corredor amplio.,andino,4,andino,0.9990292191505432
+51,sut1_ml,R01,Mi prima dejó su paraguas en la oficina.,no_andino,3,no_andino,0.06474131345748901
+52,sut1_ml,R01,El techo de la biblioteca necesita reparaciones.,no_andino,4,no_andino,8.034706115722656e-05
+53,sut1_ml,R01,Los zapatos de Gabriel quedaron mojados por la lluvia.,no_andino,1,no_andino,0.04137980937957764
+54,sut1_ml,R01,Nuestro edificio tiene un jardín interior.,no_andino,5,no_andino,0.10881835222244263
+55,sut1_ml,R01,La casa de Valeria está cerca del parque.,no_andino,5,no_andino,0.3116549849510193
+56,sut1_ml,R01,El cuaderno de Martín quedó sobre el escritorio.,no_andino,4,no_andino,0.0063787102699279785
+57,sut1_ml,R01,Mi hermana encontró sus llaves en la cocina.,no_andino,3,no_andino,0.2507683038711548
+58,sut1_ml,R01,La oficina del gerente tiene una ventana grande.,no_andino,5,no_andino,0.18381822109222412
+59,sut1_ml,R01,Los libros de Raquel ocupan dos estantes.,no_andino,2,no_andino,0.007583260536193848
+60,sut1_ml,R01,Su bicicleta necesita un freno nuevo.,no_andino,1,no_andino,0.010219454765319824
+61,sut1_ml,R01,El perro de la vecina ladra por las noches.,no_andino,2,no_andino,0.20805013179779053
+62,sut1_ml,R01,Mis padres compraron una mesa pequeña.,no_andino,4,no_andino,0.13628298044204712
+63,sut1_ml,R01,La mochila de Lucía pesa demasiado.,no_andino,5,no_andino,0.30640536546707153
+64,sut1_ml,R01,El abrigo del profesor quedó en el automóvil.,no_andino,4,no_andino,0.03287738561630249
+65,sut1_ml,R01,Nuestras plantas florecieron esta primavera.,no_andino,3,andino,0.9705321788787842
+66,sut1_ml,R01,La hermana de Andrés trabaja en un hospital.,no_andino,1,no_andino,0.003480672836303711
+67,sut1_ml,R01,El teléfono de Natalia dejó de sonar.,no_andino,3,no_andino,0.002240896224975586
+68,sut1_ml,R01,Los juguetes del bebé están en la sala.,no_andino,4,no_andino,0.012066900730133057
+69,sut1_ml,R01,Su tienda abre después de las nueve.,no_andino,2,no_andino,0.06656432151794434
+70,sut1_ml,R01,El jardín del colegio necesita mantenimiento.,no_andino,4,no_andino,0.0007795095443725586
+71,sut1_ml,R01,Las fotografías de mi abuelo están digitalizadas.,no_andino,3,no_andino,0.3143642544746399
+72,sut1_ml,R01,El equipo de Javier ganó el campeonato.,no_andino,3,no_andino,0.003988742828369141
+73,sut1_ml,R01,Nuestra profesora corrigió los exámenes.,no_andino,3,andino,0.6639364361763
+74,sut1_ml,R01,El vestido de Elena tiene botones azules.,no_andino,5,no_andino,0.11047911643981934
+75,sut1_ml,R01,Las ventanas del edificio dan a la avenida.,no_andino,2,no_andino,0.05210888385772705
+76,sut1_ml,R01,Mi tío preparó una cena especial.,no_andino,2,no_andino,0.003565669059753418
+77,sut1_ml,R01,El automóvil de Patricia está estacionado afuera.,no_andino,5,no_andino,0.3526737093925476
+78,sut1_ml,R01,Sus documentos siguen en la recepción.,no_andino,5,no_andino,0.264461874961853
+79,sut1_ml,R01,La guitarra del músico requiere afinación.,no_andino,1,no_andino,0.0009383559226989746
+80,sut1_ml,R01,La receta de mi abuela lleva canela.,no_andino,4,andino,0.917649507522583
+81,sut1_ml,R01,Los vecinos pintaron su fachada de blanco.,no_andino,2,no_andino,0.03563910722732544
+82,sut1_ml,R01,El dormitorio de Camila recibe mucha luz.,no_andino,5,no_andino,0.003918111324310303
+83,sut1_ml,R01,Mi compañero trajo su computadora portátil.,no_andino,2,no_andino,0.06165468692779541
+84,sut1_ml,R01,La mesa del comedor tiene cuatro sillas.,no_andino,3,no_andino,0.06164664030075073
+85,sut1_ml,R01,El reloj de Ricardo se adelantó cinco minutos.,no_andino,4,no_andino,0.020422637462615967
+86,sut1_ml,R01,El informe de la investigadora fue aprobado.,no_andino,1,no_andino,0.015202462673187256
+87,sut1_ml,R01,Nuestros amigos llegaron ayer por la tarde.,no_andino,5,andino,0.736552357673645
+88,sut1_ml,R01,La mascota de la familia duerme en el balcón.,no_andino,1,no_andino,0.01511317491531372
+89,sut1_ml,R01,El uniforme de la enfermera está impecable.,no_andino,4,no_andino,0.014077305793762207
+90,sut1_ml,R01,Su fotografía apareció en el periódico.,no_andino,2,no_andino,0.00013184547424316406
+91,sut1_ml,R01,El mercado del distrito cierra los domingos.,no_andino,2,no_andino,0.0701327919960022
+92,sut1_ml,R01,Las herramientas del carpintero están guardadas.,no_andino,4,no_andino,0.039115071296691895
+93,sut1_ml,R01,El hermano de Sofía estudia medicina.,no_andino,1,no_andino,0.00023239850997924805
+94,sut1_ml,R01,Mi sobrino perdió sus guantes de lana.,no_andino,5,no_andino,0.0010315179824829102
+95,sut1_ml,R01,La entrada del teatro estaba iluminada.,no_andino,1,andino,0.5903421640396118
+96,sut1_ml,R01,Los planos del arquitecto quedaron archivados.,no_andino,3,no_andino,0.002140820026397705
+97,sut1_ml,R01,Sus padres viven cerca del aeropuerto.,no_andino,2,no_andino,0.002276003360748291
+98,sut1_ml,R01,La computadora del laboratorio funciona bien.,no_andino,1,no_andino,0.01889657974243164
+99,sut1_ml,R01,El huerto de Marina produce tomates.,no_andino,3,no_andino,3.6716461181640625e-05
+100,sut1_ml,R01,Nuestro equipo presentó el proyecto final.,no_andino,1,no_andino,0.012831449508666992
+101,sut1_ml,R02,Los documentos entregaré mañana por la mañana.,andino,1,andino,0.590648889541626
+102,sut1_ml,R02,Una lámpara compró Rosa para su escritorio.,andino,5,no_andino,0.10751581192016602
+103,sut1_ml,R02,Arroz y verduras preparó mi tío para almorzar.,andino,1,andino,0.9727257490158081
+104,sut1_ml,R02,A los vecinos saludó Mariana al salir.,andino,5,andino,0.9105838537216187
+105,sut1_ml,R02,Una carta escribiré esta noche.,andino,3,andino,0.9833778738975525
+106,sut1_ml,R02,El informe terminaré antes del viernes.,andino,3,no_andino,0.00261610746383667
+107,sut1_ml,R02,Los zapatos limpió Pablo después del paseo.,andino,2,no_andino,0.4813076853752136
+108,sut1_ml,R02,Una canción cantaron las niñas en la fiesta.,andino,1,no_andino,0.015856504440307617
+109,sut1_ml,R02,El boleto guardó mi madre en su bolso.,andino,2,no_andino,0.22857028245925903
+110,sut1_ml,R02,Las semillas sembramos al comenzar la primavera.,andino,2,andino,0.9789093136787415
+111,sut1_ml,R02,Un mensaje enviará Lucía desde el aeropuerto.,andino,2,no_andino,0.07033461332321167
+112,sut1_ml,R02,Los platos lavaron mis hermanos al terminar la cena.,andino,2,andino,0.8779056668281555
+113,sut1_ml,R02,El libro encontró Daniel detrás del sofá.,andino,1,no_andino,0.044824182987213135
+114,sut1_ml,R02,La puerta cerré antes de salir de casa.,andino,5,no_andino,0.1934596300125122
+115,sut1_ml,R02,El mapa consultaron los visitantes en la entrada.,andino,2,no_andino,0.3025481700897217
+116,sut1_ml,R02,Una fotografía tomó Elena desde la ventana.,andino,4,andino,0.7682403922080994
+117,sut1_ml,R02,Los ejercicios resolveremos en la siguiente clase.,andino,3,no_andino,0.3005099296569824
+118,sut1_ml,R02,El pastel decoró mi prima con fresas.,andino,4,no_andino,0.0028523802757263184
+119,sut1_ml,R02,La mesa movieron los trabajadores hacia el pasillo.,andino,3,no_andino,0.3672176003456116
+120,sut1_ml,R02,Un abrigo compró mi padre para el invierno.,andino,5,no_andino,0.052340805530548096
+121,sut1_ml,R02,Las preguntas respondió Carmen sin dificultad.,andino,2,no_andino,0.2693459987640381
+122,sut1_ml,R02,El paquete recogerá Miguel esta tarde.,andino,2,no_andino,0.4153716564178467
+123,sut1_ml,R02,Los árboles podaron los jardineros el lunes.,andino,4,andino,0.9176527857780457
+124,sut1_ml,R02,La bicicleta reparó Andrea durante el fin de semana.,andino,3,andino,0.8562564253807068
+125,sut1_ml,R02,Las instrucciones leímos antes de comenzar.,andino,1,andino,0.7024886012077332
+126,sut1_ml,R02,Un café pidió el conductor al llegar.,andino,4,andino,0.9451267123222351
+127,sut1_ml,R02,El examen revisará la profesora mañana.,andino,3,no_andino,0.1066480278968811
+128,sut1_ml,R02,Las ventanas abrió Rosa para ventilar la sala.,andino,3,andino,0.5508617162704468
+129,sut1_ml,R02,Una historia contó mi abuelo junto al fuego.,andino,4,no_andino,0.29529672861099243
+130,sut1_ml,R02,Los materiales traeremos para el taller.,andino,4,no_andino,0.03280901908874512
+131,sut1_ml,R02,El vaso dejó Nicolás sobre la repisa.,andino,1,no_andino,0.12185555696487427
+132,sut1_ml,R02,Las entradas compraron mis amigos por internet.,andino,5,no_andino,0.3483065366744995
+133,sut1_ml,R02,La sopa calenté antes de servirla.,andino,3,no_andino,0.008118927478790283
+134,sut1_ml,R02,Un dibujo hizo Tomás para su hermana.,andino,3,andino,0.9272958040237427
+135,sut1_ml,R02,Los formularios llenaron los pacientes en recepción.,andino,5,no_andino,0.01171785593032837
+136,sut1_ml,R02,La tarea entregará Sofía el jueves.,andino,4,no_andino,0.008694708347320557
+137,sut1_ml,R02,El camino recorrieron los ciclistas al amanecer.,andino,2,andino,0.9084994792938232
+138,sut1_ml,R02,Las herramientas ordenó el mecánico al cerrar.,andino,5,andino,0.9511198401451111
+139,sut1_ml,R02,Un vestido eligió Claudia para la ceremonia.,andino,1,andino,0.8169207572937012
+140,sut1_ml,R02,Los resultados publicaron los organizadores esta mañana.,andino,1,no_andino,0.18688374757766724
+141,sut1_ml,R02,El balón pateó Joaquín hacia la portería.,andino,3,andino,0.8555479049682617
+142,sut1_ml,R02,Las cajas trasladaron los empleados al almacén.,andino,5,no_andino,0.2606615424156189
+143,sut1_ml,R02,La película vimos anoche en casa.,andino,4,no_andino,0.23130583763122559
+144,sut1_ml,R02,Un poema recitó la estudiante en público.,andino,5,no_andino,0.44759905338287354
+145,sut1_ml,R02,Los carteles colocarán los voluntarios al mediodía.,andino,1,andino,0.6290714144706726
+146,sut1_ml,R02,La fruta cortó mi hermana en trozos pequeños.,andino,4,no_andino,0.011885404586791992
+147,sut1_ml,R02,El correo responderé después del almuerzo.,andino,5,no_andino,0.024940669536590576
+148,sut1_ml,R02,Las plantas regó Esteban antes de irse.,andino,4,andino,0.9958370923995972
+149,sut1_ml,R02,Una computadora necesita mi compañero para el curso.,andino,1,no_andino,0.02876681089401245
+150,sut1_ml,R02,El portón pintaron los vecinos de color verde.,andino,2,no_andino,0.0005776882171630859
+151,sut1_ml,R02,La enfermera revisó los resultados al mediodía.,no_andino,5,no_andino,0.38647395372390747
+152,sut1_ml,R02,Pedro compró una guitarra usada.,no_andino,2,andino,0.9107680916786194
+153,sut1_ml,R02,El equipo reparará la tubería mañana.,no_andino,3,no_andino,0.06481099128723145
+154,sut1_ml,R02,Mis amigas organizaron la exposición del colegio.,no_andino,5,no_andino,0.018662214279174805
+155,sut1_ml,R02,La cocinera cortó las verduras para la sopa.,no_andino,2,andino,0.9405732154846191
+156,sut1_ml,R02,El bibliotecario clasificó los libros antiguos.,no_andino,2,no_andino,0.006092965602874756
+157,sut1_ml,R02,Marta escribió una carta de agradecimiento.,no_andino,1,andino,0.964371919631958
+158,sut1_ml,R02,El técnico instaló el programa esta mañana.,no_andino,2,no_andino,0.021731674671173096
+159,sut1_ml,R02,Los turistas visitaron el museo de arte.,no_andino,3,no_andino,0.09277814626693726
+160,sut1_ml,R02,Mi hermano preparó el desayuno temprano.,no_andino,3,no_andino,0.10876506567001343
+161,sut1_ml,R02,El carpintero construyó una mesa de madera.,no_andino,4,no_andino,0.0004973411560058594
+162,sut1_ml,R02,La profesora explicó las instrucciones del proyecto.,no_andino,2,no_andino,0.27212560176849365
+163,sut1_ml,R02,Clara guardó los recibos en una carpeta.,no_andino,2,no_andino,0.08317387104034424
+164,sut1_ml,R02,Los voluntarios limpiaron el parque del barrio.,no_andino,1,no_andino,0.008320033550262451
+165,sut1_ml,R02,El chef sirvió la cena a las ocho.,no_andino,5,no_andino,0.018157362937927246
+166,sut1_ml,R02,Mi prima encontró una moneda en el jardín.,no_andino,5,no_andino,0.009274423122406006
+167,sut1_ml,R02,El editor corrigió los errores del documento.,no_andino,1,no_andino,0.03586834669113159
+168,sut1_ml,R02,Los estudiantes presentaron sus trabajos finales.,no_andino,3,andino,0.629370391368866
+169,sut1_ml,R02,La secretaria imprimió la agenda de reuniones.,no_andino,1,no_andino,0.006637930870056152
+170,sut1_ml,R02,El mecánico cambió las llantas del vehículo.,no_andino,4,no_andino,0.0036583542823791504
+171,sut1_ml,R02,El fotógrafo capturó una imagen del amanecer.,no_andino,5,no_andino,0.013189435005187988
+172,sut1_ml,R02,La familia decoró la sala para la celebración.,no_andino,1,no_andino,0.010920345783233643
+173,sut1_ml,R02,Daniel compró flores en la esquina.,no_andino,1,no_andino,0.23421329259872437
+174,sut1_ml,R02,La entrenadora diseñó una rutina nueva.,no_andino,5,no_andino,0.042363882064819336
+175,sut1_ml,R02,Los vecinos organizaron una colecta solidaria.,no_andino,4,no_andino,0.014196276664733887
+176,sut1_ml,R02,El jardinero sembró rosas junto a la entrada.,no_andino,4,no_andino,0.02420341968536377
+177,sut1_ml,R02,La artista pintó un mural en la escuela.,no_andino,3,no_andino,0.1455768346786499
+178,sut1_ml,R02,El conductor revisó los frenos antes del viaje.,no_andino,4,andino,0.6971514821052551
+179,sut1_ml,R02,Mis amigos alquilaron una casa de campo.,no_andino,4,no_andino,0.22772276401519775
+180,sut1_ml,R02,La científica analizó los datos del experimento.,no_andino,1,no_andino,0.0007128119468688965
+181,sut1_ml,R02,El vendedor entregó el comprobante al cliente.,no_andino,5,no_andino,0.002866387367248535
+182,sut1_ml,R02,La costurera arregló el vestido de Ana.,no_andino,5,no_andino,0.19944792985916138
+183,sut1_ml,R02,El grupo grabó un video educativo.,no_andino,3,no_andino,0.0044348835945129395
+184,sut1_ml,R02,El panadero horneó pan fresco esta madrugada.,no_andino,4,andino,0.5532889366149902
+185,sut1_ml,R02,Patricia respondió las preguntas de la audiencia.,no_andino,2,andino,0.706709623336792
+186,sut1_ml,R02,El médico solicitó nuevos análisis de sangre.,no_andino,3,no_andino,0.0001958012580871582
+187,sut1_ml,R02,La directora inauguró la biblioteca escolar.,no_andino,2,no_andino,0.002357304096221924
+188,sut1_ml,R02,Los trabajadores instalaron las luces del escenario.,no_andino,4,no_andino,0.035026729106903076
+189,sut1_ml,R02,La estudiante resolvió el problema de álgebra.,no_andino,5,no_andino,0.37051963806152344
+190,sut1_ml,R02,El músico afinó su instrumento antes de tocar.,no_andino,1,no_andino,0.004669547080993652
+191,sut1_ml,R02,El niño dibujó un gato en su cuaderno.,no_andino,1,no_andino,0.4046167731285095
+192,sut1_ml,R02,El encargado cerró las puertas del edificio.,no_andino,3,no_andino,0.02842235565185547
+193,sut1_ml,R02,La guía explicó la historia del monumento.,no_andino,3,no_andino,0.2932097911834717
+194,sut1_ml,R02,Mi vecino arregló la cerca del patio.,no_andino,1,no_andino,0.0037451982498168945
+195,sut1_ml,R02,Los participantes completaron el formulario digital.,no_andino,4,no_andino,0.09195810556411743
+196,sut1_ml,R02,El equipo organizó los archivos por fecha.,no_andino,2,no_andino,0.0016723275184631348
+197,sut1_ml,R02,La diseñadora eligió colores suaves para la portada.,no_andino,4,no_andino,0.019042253494262695
+198,sut1_ml,R02,Los alumnos leyeron un cuento corto.,no_andino,3,andino,0.6958085298538208
+199,sut1_ml,R02,La empresa renovó los equipos de oficina.,no_andino,5,no_andino,0.0030012130737304688
+200,sut1_ml,R02,El recepcionista entregó las llaves de la habitación.,no_andino,2,no_andino,0.0095672607421875
+201,sut1_ml,R03,De lo que caminó sin paraguas se resfrió Lucía.,andino,4,andino,0.9082138538360596
+202,sut1_ml,R03,De lo que calentaron demasiado la olla se quemó el arroz.,andino,1,andino,0.9973986148834229
+203,sut1_ml,R03,De lo que no durmió bien llegó agotado al trabajo.,andino,3,andino,0.9993886351585388
+204,sut1_ml,R03,De lo que perdió el autobús entró tarde a clase.,andino,2,andino,0.998354971408844
+205,sut1_ml,R03,De lo que dejó la ventana abierta entró polvo a la habitación.,andino,2,andino,0.9976604580879211
+206,sut1_ml,R03,De lo que olvidó su contraseña no pudo entrar al sistema.,andino,1,andino,0.9996305108070374
+207,sut1_ml,R03,De lo que corrió bajo el sol terminó mareado.,andino,3,andino,0.9997532367706299
+208,sut1_ml,R03,De lo que apagaron las luces quedó oscuro el pasillo.,andino,2,andino,0.9974983334541321
+209,sut1_ml,R03,De lo que cayó tanta lluvia se inundó el patio.,andino,1,andino,0.9992412328720093
+210,sut1_ml,R03,De lo que no estudió suficiente desaprobó la prueba.,andino,4,andino,0.9996038675308228
+211,sut1_ml,R03,De lo que habló tan bajito nadie lo escuchó.,andino,5,andino,0.9998979568481445
+212,sut1_ml,R03,De lo que se rompió la tubería faltó agua en el edificio.,andino,3,andino,0.9870695471763611
+213,sut1_ml,R03,De lo que cocinó sin tapar la olla se evaporó el caldo.,andino,4,andino,0.9977484941482544
+214,sut1_ml,R03,De lo que se quedó hasta tarde perdió el último tren.,andino,2,andino,0.9878537058830261
+215,sut1_ml,R03,De lo que pisó el charco se mojó los zapatos.,andino,1,andino,0.9994653463363647
+216,sut1_ml,R03,De lo que no cerró bien el frasco se derramó el aceite.,andino,4,andino,0.9987848997116089
+217,sut1_ml,R03,De lo que gritó durante el partido terminó afónico.,andino,2,andino,0.9997907280921936
+218,sut1_ml,R03,De lo que dejó el celular cargando se calentó la batería.,andino,2,andino,0.9993782639503479
+219,sut1_ml,R03,De lo que no llevó abrigo pasó frío en la montaña.,andino,3,andino,0.9865055084228516
+220,sut1_ml,R03,De lo que cortaron un cable dejó de funcionar la lámpara.,andino,3,andino,0.9296853542327881
+221,sut1_ml,R03,De lo que practicó todos los días mejoró su pronunciación.,andino,5,andino,0.9985553622245789
+222,sut1_ml,R03,De lo que guardó el pan húmedo apareció moho.,andino,2,andino,0.9996053576469421
+223,sut1_ml,R03,De lo que sembraron muy tarde no crecieron los tomates.,andino,1,andino,0.9934518933296204
+224,sut1_ml,R03,De lo que se olvidó de comer le dolió la cabeza.,andino,5,andino,0.9644626975059509
+225,sut1_ml,R03,De lo que abrió la puerta con fuerza se rompió la bisagra.,andino,4,andino,0.991739809513092
+226,sut1_ml,R03,De lo que apagó la alarma se quedó dormido.,andino,5,andino,0.9999271035194397
+227,sut1_ml,R03,De lo que demoró en salir perdió su turno.,andino,3,andino,0.9998910427093506
+228,sut1_ml,R03,De lo que mezcló las pinturas cambió el color.,andino,3,andino,0.9995846748352051
+229,sut1_ml,R03,De lo que no revisó el mapa se extravió en la ciudad.,andino,2,andino,0.9870046973228455
+230,sut1_ml,R03,De lo que puso demasiada sal quedó salada la sopa.,andino,4,andino,0.9998417496681213
+231,sut1_ml,R03,De lo que dejó la ropa afuera se empapó con la lluvia.,andino,1,andino,0.9972570538520813
+232,sut1_ml,R03,De lo que tomó agua muy fría le molestó la garganta.,andino,5,andino,0.9526246786117554
+233,sut1_ml,R03,De lo que el niño tropezó se le cayeron los cuadernos.,andino,4,andino,0.9939539432525635
+234,sut1_ml,R03,De lo que cargó bolsas pesadas terminó cansado.,andino,1,andino,0.9999838471412659
+235,sut1_ml,R03,De lo que estacionaron mal el camión bloquearon la entrada.,andino,5,andino,0.9995540380477905
+236,sut1_ml,R03,De lo que no guardó el archivo perdió los cambios.,andino,3,andino,0.9884905815124512
+237,sut1_ml,R03,De lo que regaron en exceso se pudrieron las raíces.,andino,5,andino,0.9839909672737122
+238,sut1_ml,R03,De lo que olvidó su cita tuvo que reprogramarla.,andino,2,andino,0.9988933205604553
+239,sut1_ml,R03,De lo que se cortó la luz se detuvo el ascensor.,andino,1,andino,0.9957310557365417
+240,sut1_ml,R03,De lo que discutieron durante horas llegaron tarde.,andino,4,andino,0.8283348679542542
+241,sut1_ml,R03,De lo que el reloj se atrasó perdió la reunión.,andino,4,andino,0.9921226501464844
+242,sut1_ml,R03,De lo que expuso mucho tiempo se quedó sin voz.,andino,5,andino,0.6160545945167542
+243,sut1_ml,R03,De lo que dejaron comida destapada llegaron hormigas.,andino,3,andino,0.9992557764053345
+244,sut1_ml,R03,De lo que se rompió el cierre cayó una moneda de la mochila.,andino,3,andino,0.9635905623435974
+245,sut1_ml,R03,De lo que no descansó después del viaje se enfermó.,andino,5,andino,0.9908413887023926
+246,sut1_ml,R03,De lo que pegó mal la etiqueta enviaron el paquete a otro lugar.,andino,5,andino,0.9992469549179077
+247,sut1_ml,R03,De lo que calentó la leche demasiado se derramó.,andino,2,andino,0.9999432563781738
+248,sut1_ml,R03,De lo que cerraron la calle el autobús tomó otro camino.,andino,4,andino,0.9981565475463867
+249,sut1_ml,R03,De lo que olvidó los ingredientes no terminó el pastel.,andino,1,andino,0.999767005443573
+250,sut1_ml,R03,De lo que no sujetó el paraguas se lo llevó el viento.,andino,1,andino,0.9995797872543335
+251,sut1_ml,R03,Se canceló el partido porque llovió toda la mañana.,no_andino,4,no_andino,0.15302759408950806
+252,sut1_ml,R03,El niño lloró porque se golpeó la rodilla.,no_andino,3,no_andino,0.1090807318687439
+253,sut1_ml,R03,La reunión terminó temprano debido a un corte de luz.,no_andino,2,no_andino,0.0029000043869018555
+254,sut1_ml,R03,Las plantas se secaron por falta de agua.,no_andino,2,no_andino,0.04009479284286499
+255,sut1_ml,R03,Clara llegó tarde porque el tráfico estaba detenido.,no_andino,5,andino,0.9615001082420349
+256,sut1_ml,R03,La clase comenzó después porque el profesor tuvo un inconveniente.,no_andino,3,no_andino,0.11041373014450073
+257,sut1_ml,R03,El museo cerró antes de tiempo debido a una avería eléctrica.,no_andino,2,no_andino,0.023348093032836914
+258,sut1_ml,R03,No salimos de excursión porque había niebla en el camino.,no_andino,1,no_andino,0.13859105110168457
+259,sut1_ml,R03,La computadora se apagó por el sobrecalentamiento.,no_andino,3,no_andino,0.07425272464752197
+260,sut1_ml,R03,El concierto se aplazó porque faltaban equipos de sonido.,no_andino,3,no_andino,8.58306884765625e-05
+261,sut1_ml,R03,El perro ladró porque escuchó pasos en el jardín.,no_andino,2,no_andino,0.47858870029449463
+262,sut1_ml,R03,El vuelo fue cancelado a causa de la tormenta.,no_andino,2,no_andino,0.0006990432739257812
+263,sut1_ml,R03,Mi hermana descansó porque tenía fiebre.,no_andino,1,no_andino,0.06348752975463867
+264,sut1_ml,R03,La puerta no abrió debido a un desperfecto en la cerradura.,no_andino,1,no_andino,0.19465374946594238
+265,sut1_ml,R03,El equipo celebró porque había ganado el torneo.,no_andino,1,no_andino,0.0066034793853759766
+266,sut1_ml,R03,El autobús cambió de ruta por las obras de la avenida.,no_andino,5,no_andino,0.006247103214263916
+267,sut1_ml,R03,La tienda cerró temprano porque no había electricidad.,no_andino,5,no_andino,0.01670759916305542
+268,sut1_ml,R03,Perdimos la reserva porque llegamos fuera del horario.,no_andino,4,andino,0.7058109045028687
+269,sut1_ml,R03,La ventana se rompió debido a una ráfaga de viento.,no_andino,4,no_andino,0.08742159605026245
+270,sut1_ml,R03,El conductor se detuvo porque el semáforo estaba en rojo.,no_andino,3,no_andino,0.1790297031402588
+271,sut1_ml,R03,La niña sonrió porque recibió una carta inesperada.,no_andino,5,no_andino,0.31407707929611206
+272,sut1_ml,R03,La biblioteca permaneció cerrada por trabajos de mantenimiento.,no_andino,2,no_andino,0.00014448165893554688
+273,sut1_ml,R03,El gato se escondió porque escuchó un trueno.,no_andino,1,no_andino,0.37615519762039185
+274,sut1_ml,R03,Suspenderán las clases debido a las lluvias intensas.,no_andino,5,no_andino,0.0069869160652160645
+275,sut1_ml,R03,La comida se enfrió porque la dejaron sobre la mesa.,no_andino,1,no_andino,0.0669788122177124
+276,sut1_ml,R03,El corredor redujo la velocidad por el dolor en la rodilla.,no_andino,5,no_andino,0.1741524338722229
+277,sut1_ml,R03,El tren se retrasó porque hubo una falla técnica.,no_andino,5,no_andino,0.048251330852508545
+278,sut1_ml,R03,La planta creció bien porque recibió suficiente luz.,no_andino,1,andino,0.5413567423820496
+279,sut1_ml,R03,El niño se durmió temprano porque estaba agotado.,no_andino,2,andino,0.7714989185333252
+280,sut1_ml,R03,El cliente pidió un reembolso debido al producto defectuoso.,no_andino,4,no_andino,0.007543683052062988
+281,sut1_ml,R03,La profesora repitió la explicación porque varios alumnos tenían dudas.,no_andino,4,no_andino,0.02582991123199463
+282,sut1_ml,R03,El edificio fue evacuado por una fuga de gas.,no_andino,5,no_andino,7.37905502319336e-05
+283,sut1_ml,R03,El jugador fue sustituido porque tenía una lesión.,no_andino,1,no_andino,0.0010194182395935059
+284,sut1_ml,R03,El ascensor quedó fuera de servicio debido a una inspección.,no_andino,3,no_andino,0.003123164176940918
+285,sut1_ml,R03,El pastel se quemó porque olvidaron apagar el horno.,no_andino,2,no_andino,0.03556859493255615
+286,sut1_ml,R03,La ciudad organizó una campaña debido al aumento de residuos.,no_andino,1,no_andino,0.0051003098487854
+287,sut1_ml,R03,Marina abrió la ventana porque hacía mucho calor.,no_andino,4,no_andino,0.42939668893814087
+288,sut1_ml,R03,El archivo no se guardó por un error del programa.,no_andino,3,no_andino,0.0005275607109069824
+289,sut1_ml,R03,Cancelaron el viaje porque el puente estaba cerrado.,no_andino,4,andino,0.9615656137466431
+290,sut1_ml,R03,El paciente volvió al hospital debido a un dolor persistente.,no_andino,3,no_andino,0.031123876571655273
+291,sut1_ml,R03,El escenario se mojó porque comenzó a llover.,no_andino,3,no_andino,0.05730468034744263
+292,sut1_ml,R03,La exposición recibió más visitantes gracias a la publicidad.,no_andino,3,no_andino,0.06289863586425781
+293,sut1_ml,R03,El equipo cambió de estrategia porque el rival atacaba rápido.,no_andino,2,no_andino,0.03220432996749878
+294,sut1_ml,R03,La tienda recibió un aviso por incumplir el horario.,no_andino,1,no_andino,0.10876584053039551
+295,sut1_ml,R03,La alarma sonó porque alguien abrió la puerta trasera.,no_andino,5,no_andino,0.2551012635231018
+296,sut1_ml,R03,El envío se demoró debido a un problema de transporte.,no_andino,2,no_andino,0.00014078617095947266
+297,sut1_ml,R03,La lámpara dejó de funcionar porque se quemó el foco.,no_andino,4,no_andino,0.15849214792251587
+298,sut1_ml,R03,El jardinero cubrió las plantas para protegerlas de las heladas.,no_andino,4,no_andino,0.049717724323272705
+299,sut1_ml,R03,No pudieron ingresar porque sus entradas estaban vencidas.,no_andino,4,no_andino,0.34681379795074463
+300,sut1_ml,R03,El atleta descansó porque terminó la sesión de entrenamiento.,no_andino,5,no_andino,0.025312185287475586
+301,sut1_ml,R04,Deja nomás el paquete sobre la mesa.,andino,1,andino,0.9305619597434998
+302,sut1_ml,R04,Aquí nomás vive el zapatero.,andino,3,andino,0.9999630451202393
+303,sut1_ml,R04,Una pregunta nomás quiero hacerle.,andino,4,andino,0.9687904715538025
+304,sut1_ml,R04,Camina nomás por este sendero.,andino,4,andino,0.9992120862007141
+305,sut1_ml,R04,Con un poquito de sal nomás alcanza.,andino,1,andino,0.9942383170127869
+306,sut1_ml,R04,Espera nomás junto a la puerta.,andino,2,andino,0.9921037554740906
+307,sut1_ml,R04,La firma nomás falta para terminar.,andino,4,no_andino,0.23065060377120972
+308,sut1_ml,R04,A tres cuadras nomás queda la farmacia.,andino,4,andino,0.8589097261428833
+309,sut1_ml,R04,Dime nomás lo que necesitas.,andino,3,andino,0.9976021647453308
+310,sut1_ml,R04,Un vaso de agua nomás voy a tomar.,andino,3,andino,0.980088472366333
+311,sut1_ml,R04,La bolsa nomás deja en la entrada.,andino,2,andino,0.9977874159812927
+312,sut1_ml,R04,Dos minutos nomás me demoro.,andino,3,no_andino,0.45457637310028076
+313,sut1_ml,R04,Siéntate nomás en esa silla.,andino,3,andino,0.9601187705993652
+314,sut1_ml,R04,La llave nomás estaba perdida.,andino,5,andino,0.9997625350952148
+315,sut1_ml,R04,"Pasa nomás, la puerta está abierta.",andino,5,andino,0.9995003938674927
+316,sut1_ml,R04,Por esta calle nomás seguimos caminando.,andino,4,andino,0.9999865293502808
+317,sut1_ml,R04,Una servilleta nomás necesito.,andino,5,andino,0.9997742772102356
+318,sut1_ml,R04,Haz nomás la prueba antes de decidir.,andino,1,andino,0.9763503074645996
+319,sut1_ml,R04,En la esquina nomás nos encontramos.,andino,3,andino,0.9999021887779236
+320,sut1_ml,R04,Un poquito nomás voy a descansar.,andino,2,andino,0.9985476732254028
+321,sut1_ml,R04,Llama nomás cuando llegues a casa.,andino,1,andino,0.9996774792671204
+322,sut1_ml,R04,Este cuaderno nomás llevaré al curso.,andino,5,andino,0.9971467852592468
+323,sut1_ml,R04,Todavía un ratito nomás voy a esperar.,andino,5,andino,0.729498028755188
+324,sut1_ml,R04,Una foto nomás tomamos y regresamos.,andino,4,andino,0.9988440275192261
+325,sut1_ml,R04,Quédate nomás hasta que termine la lluvia.,andino,4,no_andino,0.4523608684539795
+326,sut1_ml,R04,La mitad nomás del dinero alcanzó.,andino,2,andino,0.9638919234275818
+327,sut1_ml,R04,Sigue nomás por el pasillo.,andino,2,andino,0.9995549321174622
+328,sut1_ml,R04,Un pan nomás me voy a servir.,andino,3,andino,0.8878841996192932
+329,sut1_ml,R04,Por aquí nomás se llega al puente.,andino,1,andino,0.9999999403953552
+330,sut1_ml,R04,Pregúntale nomás a la encargada.,andino,5,andino,0.9724856019020081
+331,sut1_ml,R04,Dos personas nomás llegaron temprano.,andino,5,andino,0.9983863830566406
+332,sut1_ml,R04,El paquete pequeño nomás quedó en el estante.,andino,3,andino,0.9351488947868347
+333,sut1_ml,R04,Mira nomás cómo creció ese árbol.,andino,3,no_andino,0.28162235021591187
+334,sut1_ml,R04,Sin apuro nomás haz tu trabajo.,andino,2,no_andino,0.0010676980018615723
+335,sut1_ml,R04,Una hora nomás dura el recorrido.,andino,5,andino,0.9814568161964417
+336,sut1_ml,R04,En esta mesa nomás podemos conversar.,andino,2,andino,0.998002290725708
+337,sut1_ml,R04,Prueba nomás el jugo recién hecho.,andino,1,andino,0.9999951124191284
+338,sut1_ml,R04,"Un lápiz nomás me prestas, por favor.",andino,1,andino,0.9961463212966919
+339,sut1_ml,R04,"Adelante nomás, todavía hay espacio.",andino,1,andino,0.9999292492866516
+340,sut1_ml,R04,Un kilómetro nomás falta para llegar.,andino,2,andino,0.989920973777771
+341,sut1_ml,R04,Duerme nomás un poco más.,andino,3,andino,0.6229989528656006
+342,sut1_ml,R04,La última página nomás queda por revisar.,andino,2,andino,0.9908720254898071
+343,sut1_ml,R04,En casa nomás vamos a celebrar.,andino,5,andino,0.9993042945861816
+344,sut1_ml,R04,Acércate nomás para escuchar mejor.,andino,1,andino,0.5287172794342041
+345,sut1_ml,R04,Un pedacito nomás quiero del pastel.,andino,4,andino,0.9966329336166382
+346,sut1_ml,R04,Por la mañana nomás atienden aquí.,andino,4,andino,0.9999999403953552
+347,sut1_ml,R04,Avísame nomás si cambias de idea.,andino,5,andino,0.9999980330467224
+348,sut1_ml,R04,Cuatro sillas nomás necesitamos.,andino,2,andino,0.9994858503341675
+349,sut1_ml,R04,La puerta de atrás nomás está abierta.,andino,4,andino,0.9844897985458374
+350,sut1_ml,R04,Respira nomás y continúa con calma.,andino,1,andino,0.9998343586921692
+351,sut1_ml,R04,Solamente necesito una copia del certificado.,no_andino,1,no_andino,0.003726959228515625
+352,sut1_ml,R04,La farmacia está cerca de la estación.,no_andino,2,no_andino,0.004668295383453369
+353,sut1_ml,R04,Puedes esperar en la sala principal.,no_andino,5,no_andino,0.002884387969970703
+354,sut1_ml,R04,Quiero hacer una consulta breve.,no_andino,5,no_andino,0.04999828338623047
+355,sut1_ml,R04,Añade únicamente una cucharadita de azúcar.,no_andino,1,no_andino,0.0015813112258911133
+356,sut1_ml,R04,Solo tengo veinte minutos disponibles.,no_andino,4,no_andino,0.03336113691329956
+357,sut1_ml,R04,La tienda queda a dos cuadras del parque.,no_andino,2,no_andino,0.0014813542366027832
+358,sut1_ml,R04,Puedes dejar los documentos en recepción.,no_andino,5,no_andino,0.004599869251251221
+359,sut1_ml,R04,Necesitamos únicamente dos voluntarios.,no_andino,3,no_andino,0.029794633388519287
+360,sut1_ml,R04,Descansa un momento antes de continuar.,no_andino,2,no_andino,0.03657042980194092
+361,sut1_ml,R04,La entrevista durará aproximadamente media hora.,no_andino,3,no_andino,0.021468758583068848
+362,sut1_ml,R04,Basta con una firma para completar el trámite.,no_andino,5,andino,0.6544154286384583
+363,sut1_ml,R04,Puedes entrar cuando la sala esté libre.,no_andino,2,no_andino,0.02137547731399536
+364,sut1_ml,R04,Solo compré un cuaderno para el curso.,no_andino,2,no_andino,0.01230388879776001
+365,sut1_ml,R04,El consultorio está al final del pasillo.,no_andino,1,no_andino,0.2831317186355591
+366,sut1_ml,R04,Es suficiente llevar una identificación.,no_andino,3,no_andino,0.00041872262954711914
+367,sut1_ml,R04,La niña pidió una galleta adicional.,no_andino,4,no_andino,0.007254421710968018
+368,sut1_ml,R04,El recorrido incluye solamente tres paradas.,no_andino,2,no_andino,0.0001354217529296875
+369,sut1_ml,R04,Avísame cuando estés cerca de la estación.,no_andino,5,andino,0.8946640491485596
+370,sut1_ml,R04,Podemos conversar aquí sin interrupciones.,no_andino,4,no_andino,0.11089509725570679
+371,sut1_ml,R04,Únicamente los participantes registrados recibirán el enlace.,no_andino,4,andino,0.6244902610778809
+372,sut1_ml,R04,Faltan cinco minutos para comenzar.,no_andino,1,no_andino,0.4202733039855957
+373,sut1_ml,R04,Siéntate donde te resulte más cómodo.,no_andino,2,no_andino,0.0319177508354187
+374,sut1_ml,R04,Solo queda una entrada disponible.,no_andino,4,andino,0.9661407470703125
+375,sut1_ml,R04,El restaurante abre durante el almuerzo.,no_andino,2,no_andino,0.17900758981704712
+376,sut1_ml,R04,Puedes tomar agua del dispensador.,no_andino,1,no_andino,0.012604057788848877
+377,sut1_ml,R04,La reparación requiere únicamente una pieza.,no_andino,1,no_andino,0.036142587661743164
+378,sut1_ml,R04,Nos reuniremos frente a la biblioteca.,no_andino,1,no_andino,0.05675762891769409
+379,sut1_ml,R04,Solo asistirán los representantes del grupo.,no_andino,2,no_andino,0.007582664489746094
+380,sut1_ml,R04,El examen contiene veinte preguntas.,no_andino,3,no_andino,0.3943532705307007
+381,sut1_ml,R04,Puedes continuar por esta avenida.,no_andino,4,no_andino,0.09207075834274292
+382,sut1_ml,R04,La conferencia tendrá una única sesión.,no_andino,1,no_andino,0.002579331398010254
+383,sut1_ml,R04,El niño quiere descansar un rato.,no_andino,3,no_andino,0.013236701488494873
+384,sut1_ml,R04,Espera cerca de la ventanilla.,no_andino,1,no_andino,0.21720963716506958
+385,sut1_ml,R04,El paquete pequeño cabe en la mochila.,no_andino,5,andino,0.5800340175628662
+386,sut1_ml,R04,Solamente falta revisar la conclusión.,no_andino,3,andino,0.5552382469177246
+387,sut1_ml,R04,La función comienza dentro de una hora.,no_andino,5,no_andino,0.09620046615600586
+388,sut1_ml,R04,Puedes probar el plato antes de pedirlo.,no_andino,3,no_andino,0.023659050464630127
+389,sut1_ml,R04,La clase se desarrollará en el aula principal.,no_andino,5,no_andino,0.12346833944320679
+390,sut1_ml,R04,Solo utilizaremos una hoja por estudiante.,no_andino,5,no_andino,0.01803189516067505
+391,sut1_ml,R04,Quedan tres lugares libres en el taller.,no_andino,3,no_andino,0.12263643741607666
+392,sut1_ml,R04,Puedes llamar cuando tengas novedades.,no_andino,2,no_andino,0.004526793956756592
+393,sut1_ml,R04,La inscripción se realiza por internet.,no_andino,1,no_andino,0.008700191974639893
+394,sut1_ml,R04,Necesito únicamente la primera página del informe.,no_andino,5,no_andino,0.10742712020874023
+395,sut1_ml,R04,La visita termina a las seis de la tarde.,no_andino,3,no_andino,0.0059950947761535645
+396,sut1_ml,R04,Podemos celebrar en mi casa.,no_andino,4,andino,0.9533540606498718
+397,sut1_ml,R04,El viaje requiere un solo transbordo.,no_andino,3,no_andino,0.0022586584091186523
+398,sut1_ml,R04,"Si deseas, puedes pasar a la oficina.",no_andino,4,no_andino,0.45846569538116455
+399,sut1_ml,R04,Solo se venden boletos en la entrada.,no_andino,4,no_andino,0.010670483112335205
+400,sut1_ml,R04,El archivo ocupa muy poco espacio.,no_andino,4,no_andino,0.02760946750640869
+401,sut1_ml,R05,"Al otro lado del cerro hay una laguna, dice.",andino,4,andino,0.9916004538536072
+402,sut1_ml,R05,"Las clases empezarán el lunes, dice.",andino,4,andino,0.9967251420021057
+403,sut1_ml,R05,"La niña encontró la billetera, dice.",andino,4,andino,0.9942731857299805
+404,sut1_ml,R05,"En el pueblo habrá una feria mañana, dice.",andino,1,andino,0.9821251630783081
+405,sut1_ml,R05,"El puente quedó cerrado, dice.",andino,4,andino,0.9995404481887817
+406,sut1_ml,R05,"El médico ya llegó al centro de salud, dice.",andino,2,andino,0.8932722806930542
+407,sut1_ml,R05,"La familia se mudará el próximo mes, dice.",andino,5,andino,0.5848652124404907
+408,sut1_ml,R05,"Anoche vieron luces cerca del río, dice.",andino,5,andino,0.6112066507339478
+409,sut1_ml,R05,"El camino estará libre para el domingo, dice.",andino,1,andino,0.9921011328697205
+410,sut1_ml,R05,"Mañana bajará la temperatura, dice.",andino,3,andino,0.9990878701210022
+411,sut1_ml,R05,"La profesora cambiará la fecha del examen, dice.",andino,3,andino,0.941099226474762
+412,sut1_ml,R05,"La cosecha de este año será buena, dice.",andino,4,andino,0.9434508085250854
+413,sut1_ml,R05,"El mercado abrirá más temprano, dice.",andino,5,andino,0.8886284232139587
+414,sut1_ml,R05,"El equipo viajará el viernes, dice.",andino,5,andino,0.9093044400215149
+415,sut1_ml,R05,"En esa casa vive una artesana famosa, dice.",andino,2,andino,0.9997554421424866
+416,sut1_ml,R05,"La tormenta llegará durante la noche, dice.",andino,4,andino,0.9560309648513794
+417,sut1_ml,R05,"El autobús ya pasó por la plaza, dice.",andino,1,andino,0.9889447093009949
+418,sut1_ml,R05,"El alcalde visitará el barrio, dice.",andino,5,andino,0.7689502835273743
+419,sut1_ml,R05,"La biblioteca recibirá libros nuevos, dice.",andino,2,andino,0.8999583721160889
+420,sut1_ml,R05,"El perro volvió solo a su casa, dice.",andino,1,andino,0.9892399907112122
+421,sut1_ml,R05,"Debajo del puente encontraron una bicicleta, dice.",andino,2,andino,0.8584709167480469
+422,sut1_ml,R05,"La feria terminará el martes, dice.",andino,1,andino,0.9817241430282593
+423,sut1_ml,R05,"El maestro regresará de su viaje, dice.",andino,3,andino,0.9240541458129883
+424,sut1_ml,R05,"Ayer cerraron la carretera principal, dice.",andino,4,andino,0.9964250326156616
+425,sut1_ml,R05,"La tienda tendrá descuentos mañana, dice.",andino,3,andino,0.9541807174682617
+426,sut1_ml,R05,"La cantante actuará esta noche, dice.",andino,3,andino,0.9974960684776306
+427,sut1_ml,R05,"El restaurante cambiará de dueño, dice.",andino,3,no_andino,0.3758932948112488
+428,sut1_ml,R05,"El bebé nació durante la madrugada, dice.",andino,2,andino,0.952912449836731
+429,sut1_ml,R05,"En ese terreno construirán una escuela, dice.",andino,2,andino,0.9956243634223938
+430,sut1_ml,R05,"La señora ganó un premio importante, dice.",andino,1,andino,0.7006215453147888
+431,sut1_ml,R05,"El tren llegará con retraso, dice.",andino,3,andino,0.9109680652618408
+432,sut1_ml,R05,"El agua del río subió bastante, dice.",andino,2,no_andino,0.2749691605567932
+433,sut1_ml,R05,"El museo tendrá entrada gratuita, dice.",andino,2,no_andino,0.3218730092048645
+434,sut1_ml,R05,"La vecina recibió noticias de su hijo, dice.",andino,2,andino,0.9206907153129578
+435,sut1_ml,R05,"La exposición seguirá hasta diciembre, dice.",andino,3,andino,0.9868960976600647
+436,sut1_ml,R05,"El sábado habrá una reunión comunitaria, dice.",andino,4,andino,0.6182919144630432
+437,sut1_ml,R05,"El director renunciará a su cargo, dice.",andino,5,no_andino,0.002949833869934082
+438,sut1_ml,R05,"En esa montaña encontraron una cueva, dice.",andino,1,andino,0.9900352358818054
+439,sut1_ml,R05,"La panadería cerrará por remodelación, dice.",andino,1,andino,0.8819531202316284
+440,sut1_ml,R05,"Los alumnos saldrán antes del mediodía, dice.",andino,1,andino,0.9939036965370178
+441,sut1_ml,R05,"La lluvia dañó varios cultivos, dice.",andino,4,andino,0.7167624235153198
+442,sut1_ml,R05,"El laboratorio ya terminó las pruebas, dice.",andino,4,andino,0.9995298385620117
+443,sut1_ml,R05,"El próximo año abrirán una clínica, dice.",andino,5,andino,0.680597722530365
+444,sut1_ml,R05,"El pescador encontró una red antigua, dice.",andino,2,andino,0.6258622407913208
+445,sut1_ml,R05,"Anoche se escuchó un ruido extraño, dice.",andino,1,andino,0.9808911681175232
+446,sut1_ml,R05,"La compañía cancelará su presentación, dice.",andino,5,no_andino,0.3039064407348633
+447,sut1_ml,R05,"El camión llegará mañana temprano, dice.",andino,5,andino,0.9993842244148254
+448,sut1_ml,R05,"Un vecino vio al gato perdido, dice.",andino,5,andino,0.9999963641166687
+449,sut1_ml,R05,"El parque tendrá nuevas bancas, dice.",andino,3,andino,0.9802346229553223
+450,sut1_ml,R05,"La competencia comenzará al amanecer, dice.",andino,3,andino,0.9925763010978699
+451,sut1_ml,R05,"Según el boletín, la carretera está abierta.",no_andino,5,no_andino,0.11589431762695312
+452,sut1_ml,R05,La directora informó que las inscripciones terminan el viernes.,no_andino,4,no_andino,0.14847880601882935
+453,sut1_ml,R05,"Al parecer, la cosecha será abundante.",no_andino,1,andino,0.9999056458473206
+454,sut1_ml,R05,Un vecino comentó que hubo un corte de energía.,no_andino,2,no_andino,0.45351356267929077
+455,sut1_ml,R05,El pronóstico anuncia temperaturas bajas para mañana.,no_andino,1,no_andino,0.011928200721740723
+456,sut1_ml,R05,La radio informó sobre el cierre del puente.,no_andino,3,no_andino,0.00047266483306884766
+457,sut1_ml,R05,"Según el comunicado, el museo abrirá el lunes.",no_andino,4,no_andino,0.1729603409767151
+458,sut1_ml,R05,El médico confirmó que los resultados están listos.,no_andino,1,no_andino,0.0043447017669677734
+459,sut1_ml,R05,Una testigo relató lo ocurrido en la plaza.,no_andino,2,andino,0.9984249472618103
+460,sut1_ml,R05,"De acuerdo con el informe, los precios permanecerán estables.",no_andino,1,andino,0.9412133693695068
+461,sut1_ml,R05,La maestra anunció una actividad para el viernes.,no_andino,2,no_andino,0.32381534576416016
+462,sut1_ml,R05,El encargado indicó que la puerta principal está cerrada.,no_andino,1,no_andino,0.42119741439819336
+463,sut1_ml,R05,El periódico publicó la fecha del concierto.,no_andino,4,no_andino,0.020805537700653076
+464,sut1_ml,R05,Un vecino aseguró haber visto el automóvil.,no_andino,2,andino,0.9640944600105286
+465,sut1_ml,R05,La organización confirmó el cambio de horario.,no_andino,4,no_andino,0.0005093812942504883
+466,sut1_ml,R05,"Según la alcaldía, las obras terminarán pronto.",no_andino,4,andino,0.6637866497039795
+467,sut1_ml,R05,La guía explicó que el recorrido dura dos horas.,no_andino,3,no_andino,0.05578947067260742
+468,sut1_ml,R05,El boletín meteorológico anticipa lluvias intensas.,no_andino,3,no_andino,0.0004934072494506836
+469,sut1_ml,R05,La universidad comunicó el inicio de las matrículas.,no_andino,4,no_andino,0.010752499103546143
+470,sut1_ml,R05,El entrenador anunció la lista de participantes.,no_andino,5,no_andino,5.888938903808594e-05
+471,sut1_ml,R05,Una comerciante contó que el mercado estaba lleno.,no_andino,2,andino,0.9923099279403687
+472,sut1_ml,R05,El informe señala que la producción aumentó.,no_andino,5,no_andino,0.005831241607666016
+473,sut1_ml,R05,La agencia confirmó la salida del vuelo.,no_andino,1,no_andino,0.0002681612968444824
+474,sut1_ml,R05,El guardia avisó que la entrada estaba restringida.,no_andino,2,no_andino,0.13169658184051514
+475,sut1_ml,R05,"Según los investigadores, el hallazgo es reciente.",no_andino,4,no_andino,0.014934122562408447
+476,sut1_ml,R05,El gerente declaró que habrá nuevas contrataciones.,no_andino,2,no_andino,0.0007354617118835449
+477,sut1_ml,R05,La enfermera comunicó que la consulta se reprogramó.,no_andino,1,no_andino,0.004734635353088379
+478,sut1_ml,R05,El diario reportó un accidente en la avenida.,no_andino,1,no_andino,0.00036025047302246094
+479,sut1_ml,R05,La vecina mencionó que escuchó música anoche.,no_andino,5,no_andino,0.029850304126739502
+480,sut1_ml,R05,La institución publicó los resultados del concurso.,no_andino,5,no_andino,0.00863116979598999
+481,sut1_ml,R05,El portavoz informó que el servicio fue restablecido.,no_andino,1,no_andino,0.0021907687187194824
+482,sut1_ml,R05,La administradora confirmó la reserva de la sala.,no_andino,5,no_andino,0.005076050758361816
+483,sut1_ml,R05,El informe técnico describe una falla en el motor.,no_andino,3,no_andino,0.0005376935005187988
+484,sut1_ml,R05,La policía anunció la reapertura de la vía.,no_andino,5,andino,0.7218514680862427
+485,sut1_ml,R05,Un testigo explicó que el semáforo no funcionaba.,no_andino,4,no_andino,0.05810195207595825
+486,sut1_ml,R05,"Según el calendario, el curso comienza en enero.",no_andino,3,no_andino,0.03381383419036865
+487,sut1_ml,R05,La empresa notificó un cambio en las tarifas.,no_andino,4,no_andino,0.0005189776420593262
+488,sut1_ml,R05,La oficina confirmó que el trámite fue aprobado.,no_andino,5,no_andino,0.16777265071868896
+489,sut1_ml,R05,El periodista reportó una inundación en la zona.,no_andino,5,no_andino,0.008320748805999756
+490,sut1_ml,R05,La recepcionista indicó dónde retirar las credenciales.,no_andino,2,no_andino,0.14455974102020264
+491,sut1_ml,R05,El municipio difundió el programa del festival.,no_andino,5,no_andino,0.014765143394470215
+492,sut1_ml,R05,El director comunicó que la reunión será virtual.,no_andino,3,no_andino,0.0002620816230773926
+493,sut1_ml,R05,La doctora señaló que la recuperación marcha bien.,no_andino,1,no_andino,0.15482807159423828
+494,sut1_ml,R05,"Según la encuesta, aumentó el uso del transporte público.",no_andino,3,no_andino,0.0019376873970031738
+495,sut1_ml,R05,El personal informó que el ascensor está averiado.,no_andino,2,no_andino,0.08157002925872803
+496,sut1_ml,R05,La asociación confirmó la fecha de su aniversario.,no_andino,3,no_andino,0.029076874256134033
+497,sut1_ml,R05,El boletín escolar anunció las vacaciones de invierno.,no_andino,3,no_andino,0.004541277885437012
+498,sut1_ml,R05,La bibliotecaria recordó que el préstamo vence mañana.,no_andino,4,no_andino,0.1506795883178711
+499,sut1_ml,R05,La agencia meteorológica prevé una noche despejada.,no_andino,2,no_andino,0.024586260318756104
+500,sut1_ml,R05,La profesora explicó los cambios del cronograma.,no_andino,3,no_andino,0.22981393337249756
+501,sut1_ml,R06,"Sí pues, la reunión ya terminó.",andino,3,andino,0.9999852180480957
+502,sut1_ml,R06,"Ven pues, que se está haciendo tarde.",andino,4,no_andino,0.4976566433906555
+503,sut1_ml,R06,¿Por qué pues te preocupas tanto?,andino,5,andino,0.9971140623092651
+504,sut1_ml,R06,Bonito pues quedó el dibujo.,andino,5,andino,0.9999576807022095
+505,sut1_ml,R06,¿Dónde pues guardaste las llaves?,andino,3,andino,0.9867101311683655
+506,sut1_ml,R06,"Claro pues, mañana salimos temprano.",andino,1,andino,0.9997743368148804
+507,sut1_ml,R06,"Apúrate pues, el autobús está llegando.",andino,4,andino,0.9951931238174438
+508,sut1_ml,R06,¿Qué pues vamos a preparar para cenar?,andino,2,andino,0.9874874949455261
+509,sut1_ml,R06,Está lejos pues ese edificio.,andino,3,andino,0.9507791996002197
+510,sut1_ml,R06,No te olvides pues de la cita.,andino,2,no_andino,0.10729211568832397
+511,sut1_ml,R06,Así pues quedó el jardín después de la lluvia.,andino,5,andino,0.9943041801452637
+512,sut1_ml,R06,¿Cómo pues encontraste la dirección?,andino,2,no_andino,0.348580539226532
+513,sut1_ml,R06,"Está bien pues, podemos intentarlo otra vez.",andino,2,andino,0.9860410690307617
+514,sut1_ml,R06,Mira pues cómo brilla la luna.,andino,1,andino,0.9987297654151917
+515,sut1_ml,R06,Ese cuaderno pues es el mío.,andino,1,andino,0.9981471300125122
+516,sut1_ml,R06,¿Quién pues movió las sillas?,andino,4,andino,0.9591330289840698
+517,sut1_ml,R06,Es difícil pues terminarlo en un día.,andino,3,no_andino,0.4028301239013672
+518,sut1_ml,R06,Ven temprano pues para conversar.,andino,1,andino,0.8321675062179565
+519,sut1_ml,R06,Qué bonito pues se ve el parque.,andino,5,andino,0.740978479385376
+520,sut1_ml,R06,¿Por dónde pues empieza el camino?,andino,3,andino,0.9998041987419128
+521,sut1_ml,R06,"Ya pues, cuéntame lo que pasó.",andino,4,andino,0.9999993443489075
+522,sut1_ml,R06,Es grande pues la casa de mi primo.,andino,2,andino,0.8794021606445312
+523,sut1_ml,R06,No corras pues por las escaleras.,andino,5,andino,0.8255481719970703
+524,sut1_ml,R06,¿A qué hora pues sale el último tren?,andino,2,andino,0.8301315307617188
+525,sut1_ml,R06,Mañana pues veremos los resultados.,andino,3,andino,0.9986293315887451
+526,sut1_ml,R06,Escucha pues con atención la explicación.,andino,1,andino,0.9847829341888428
+527,sut1_ml,R06,¿Qué cosa pues llevaremos al paseo?,andino,1,andino,0.9827324748039246
+528,sut1_ml,R06,Muy frío pues estuvo el amanecer.,andino,1,andino,0.9912459254264832
+529,sut1_ml,R06,"Sí pues, todavía falta una firma.",andino,2,andino,0.6280054450035095
+530,sut1_ml,R06,No seas así pues con tus compañeros.,andino,5,no_andino,0.30436432361602783
+531,sut1_ml,R06,¿De quién pues es esa mochila?,andino,3,andino,0.9991068840026855
+532,sut1_ml,R06,Está bonito pues el mural nuevo.,andino,4,andino,0.999297022819519
+533,sut1_ml,R06,Vamos pues antes de que oscurezca.,andino,5,no_andino,0.29167622327804565
+534,sut1_ml,R06,¿Por qué camino pues regresaremos?,andino,4,andino,0.9985140562057495
+535,sut1_ml,R06,La profesora pues conoce bien el tema.,andino,5,andino,0.9987890124320984
+536,sut1_ml,R06,Dilo pues para que todos escuchen.,andino,1,no_andino,0.14934653043746948
+537,sut1_ml,R06,¿Qué tanto pues demoraron en llegar?,andino,3,no_andino,0.14709490537643433
+538,sut1_ml,R06,Es temprano pues para cerrar la tienda.,andino,2,no_andino,0.2088005542755127
+539,sut1_ml,R06,"No lo muevas pues, todavía está húmedo.",andino,3,andino,0.9967293739318848
+540,sut1_ml,R06,"Claro pues, esa era la respuesta.",andino,4,andino,0.9914724230766296
+541,sut1_ml,R06,¿Cómo pues se rompió la ventana?,andino,1,andino,0.9603058695793152
+542,sut1_ml,R06,Trae pues un vaso para el invitado.,andino,4,andino,0.9985681772232056
+543,sut1_ml,R06,Interesante pues resultó la charla.,andino,2,andino,0.9825602769851685
+544,sut1_ml,R06,¿Con quién pues hablaste ayer?,andino,2,andino,0.9999921321868896
+545,sut1_ml,R06,Todavía pues hay tiempo para practicar.,andino,3,andino,0.9674249291419983
+546,sut1_ml,R06,Avanza pues hasta la siguiente esquina.,andino,5,andino,0.9873645901679993
+547,sut1_ml,R06,Qué rápido pues pasó el verano.,andino,5,andino,0.7322310209274292
+548,sut1_ml,R06,¿En cuál aula pues será la evaluación?,andino,1,andino,0.8950956463813782
+549,sut1_ml,R06,"Bueno pues, empezaremos sin demora.",andino,4,andino,0.9355847239494324
+550,sut1_ml,R06,Es suyo pues ese sombrero.,andino,4,andino,0.5122661590576172
+551,sut1_ml,R06,Me parece acertada tu propuesta.,no_andino,5,no_andino,0.0003679990768432617
+552,sut1_ml,R06,¿Cuándo empieza la conferencia?,no_andino,1,no_andino,0.26267296075820923
+553,sut1_ml,R06,Quizá todavía haya entradas disponibles.,no_andino,1,no_andino,5.4836273193359375e-06
+554,sut1_ml,R06,Entregaremos el informe esta tarde.,no_andino,1,no_andino,0.06653463840484619
+555,sut1_ml,R06,¿Cómo encontraste el camino de regreso?,no_andino,1,no_andino,0.39459526538848877
+556,sut1_ml,R06,La reunión comenzará puntualmente.,no_andino,4,no_andino,0.00016021728515625
+557,sut1_ml,R06,Ven temprano para conversar.,no_andino,5,andino,0.6442867517471313
+558,sut1_ml,R06,¿Qué prepararemos para el almuerzo?,no_andino,2,andino,0.6277393102645874
+559,sut1_ml,R06,El edificio queda a varias cuadras.,no_andino,5,no_andino,0.012701332569122314
+560,sut1_ml,R06,Recuerda confirmar tu asistencia.,no_andino,5,no_andino,0.011973023414611816
+561,sut1_ml,R06,El jardín luce distinto después de la lluvia.,no_andino,3,no_andino,0.11954307556152344
+562,sut1_ml,R06,¿Dónde encontraste ese libro?,no_andino,4,andino,0.8158324956893921
+563,sut1_ml,R06,Podemos intentar una solución diferente.,no_andino,2,no_andino,0.00012433528900146484
+564,sut1_ml,R06,La luna brilla sobre los edificios.,no_andino,3,no_andino,0.0620000958442688
+565,sut1_ml,R06,Ese cuaderno pertenece a mi hermana.,no_andino,1,no_andino,0.40396058559417725
+566,sut1_ml,R06,¿Quién movió las mesas del salón?,no_andino,3,no_andino,0.10813796520233154
+567,sut1_ml,R06,Terminar el proyecto en un día será complicado.,no_andino,4,andino,0.8976886868476868
+568,sut1_ml,R06,Es mejor salir antes del amanecer.,no_andino,4,andino,0.8695805668830872
+569,sut1_ml,R06,El parque se ve hermoso esta mañana.,no_andino,4,andino,0.9999639391899109
+570,sut1_ml,R06,¿Por qué calle comienza el recorrido?,no_andino,1,andino,0.9965491890907288
+571,sut1_ml,R06,Cuéntame los detalles de tu viaje.,no_andino,5,no_andino,0.33108198642730713
+572,sut1_ml,R06,La casa de mi primo tiene dos pisos.,no_andino,5,andino,0.981090247631073
+573,sut1_ml,R06,No corras por el pasillo.,no_andino,1,no_andino,0.10844653844833374
+574,sut1_ml,R06,¿A qué hora llega el último autobús?,no_andino,1,no_andino,0.11664646863937378
+575,sut1_ml,R06,Revisaremos los resultados el viernes.,no_andino,3,andino,0.663821816444397
+576,sut1_ml,R06,Escucha atentamente las indicaciones.,no_andino,2,andino,0.9896551370620728
+577,sut1_ml,R06,¿Qué materiales necesitamos para el taller?,no_andino,2,no_andino,0.34301209449768066
+578,sut1_ml,R06,La mañana estuvo especialmente fría.,no_andino,3,no_andino,0.007745027542114258
+579,sut1_ml,R06,Todavía falta completar una página.,no_andino,4,no_andino,0.4403684735298157
+580,sut1_ml,R06,Debemos tratar a todos con respeto.,no_andino,5,no_andino,0.4356105923652649
+581,sut1_ml,R06,¿De quién es ese abrigo?,no_andino,2,andino,0.9999420642852783
+582,sut1_ml,R06,El mural nuevo quedó muy bien.,no_andino,3,andino,0.9932827949523926
+583,sut1_ml,R06,Salgamos antes de que cierren la puerta.,no_andino,1,no_andino,0.41090816259384155
+584,sut1_ml,R06,¿Por cuál sendero regresaremos?,no_andino,1,andino,0.9517580270767212
+585,sut1_ml,R06,La profesora domina el contenido del curso.,no_andino,4,andino,0.6961768865585327
+586,sut1_ml,R06,Habla más fuerte para que te escuchen.,no_andino,4,no_andino,0.44316065311431885
+587,sut1_ml,R06,¿Cuánto demoraron en llegar al aeropuerto?,no_andino,2,no_andino,0.014390408992767334
+588,sut1_ml,R06,Es demasiado temprano para cerrar el local.,no_andino,4,no_andino,0.012813448905944824
+589,sut1_ml,R06,No toques la pintura hasta que se seque.,no_andino,2,no_andino,0.06456631422042847
+590,sut1_ml,R06,Esa respuesta es correcta.,no_andino,5,andino,0.7830303907394409
+591,sut1_ml,R06,¿Cómo se dañó la pantalla?,no_andino,3,no_andino,0.017921745777130127
+592,sut1_ml,R06,Trae un vaso de agua para la invitada.,no_andino,5,andino,0.9716745615005493
+593,sut1_ml,R06,La conferencia resultó interesante.,no_andino,2,no_andino,0.020995736122131348
+594,sut1_ml,R06,¿Con quién conversaste después de clase?,no_andino,2,andino,0.9985530376434326
+595,sut1_ml,R06,Tenemos suficiente tiempo para practicar.,no_andino,3,no_andino,0.36716073751449585
+596,sut1_ml,R06,Continúa hasta llegar a la esquina.,no_andino,5,andino,0.7335953712463379
+597,sut1_ml,R06,El verano pasó más rápido de lo esperado.,no_andino,4,andino,0.7735698223114014
+598,sut1_ml,R06,¿En qué salón se realizará la evaluación?,no_andino,3,no_andino,0.00898897647857666
+599,sut1_ml,R06,Comenzaremos cuando llegue el coordinador.,no_andino,3,andino,0.6543315649032593
+600,sut1_ml,R06,Ese sombrero le pertenece al guardia.,no_andino,2,andino,0.5019806623458862
+601,sut1_ml,R07,La mochila está pesado con tantos libros.,andino,5,andino,0.9895836114883423
+602,sut1_ml,R07,Los caminos quedaron cerrado por la nieve.,andino,2,andino,0.7510281801223755
+603,sut1_ml,R07,Las niñas estaban contento con la sorpresa.,andino,2,andino,0.9624848961830139
+604,sut1_ml,R07,Mi hermana está cansado después del viaje.,andino,2,andino,0.552443265914917
+605,sut1_ml,R07,Estas montañas son hermoso al amanecer.,andino,4,no_andino,5.960464477539062e-07
+606,sut1_ml,R07,La ventana quedó abierto toda la noche.,andino,4,andino,0.9811403751373291
+607,sut1_ml,R07,Los alumnos estaban preparado para el examen.,andino,4,andino,0.7846019864082336
+608,sut1_ml,R07,La camisa nueva está manchado de pintura.,andino,2,no_andino,0.005981802940368652
+609,sut1_ml,R07,Las flores quedaron marchito por el calor.,andino,5,andino,0.7558938264846802
+610,sut1_ml,R07,Los documentos está guardado en el armario.,andino,4,andino,0.6586676239967346
+611,sut1_ml,R07,La profesora parecía preocupado por la noticia.,andino,3,no_andino,0.2574535608291626
+612,sut1_ml,R07,Las mesas estaban cubierto con manteles blancos.,andino,4,no_andino,0.18406963348388672
+613,sut1_ml,R07,Mi tía llegó agotado después del trabajo.,andino,3,no_andino,0.15488958358764648
+614,sut1_ml,R07,Los zapatos sigue mojado por la lluvia.,andino,5,andino,0.9925253391265869
+615,sut1_ml,R07,La película estuvo divertido de principio a fin.,andino,2,no_andino,0.019222795963287354
+616,sut1_ml,R07,Las paredes quedó pintado de amarillo.,andino,3,andino,0.9715257883071899
+617,sut1_ml,R07,La sopa estaba demasiado salado.,andino,1,no_andino,0.1337043046951294
+618,sut1_ml,R07,Los niños se quedó sorprendido con el espectáculo.,andino,3,andino,0.9159757494926453
+619,sut1_ml,R07,La puerta principal está cerrado desde ayer.,andino,3,no_andino,0.05875194072723389
+620,sut1_ml,R07,Las bicicletas estaban estacionado junto al muro.,andino,1,no_andino,0.19484317302703857
+621,sut1_ml,R07,El libro y el cuaderno está sobre la mesa.,andino,3,andino,0.7583200335502625
+622,sut1_ml,R07,La niña estaba distraído durante la clase.,andino,4,no_andino,0.008248865604400635
+623,sut1_ml,R07,Las manzanas se ve maduro en el árbol.,andino,2,andino,0.6678800582885742
+624,sut1_ml,R07,Los perros parecía asustado por los truenos.,andino,4,andino,0.5379188060760498
+625,sut1_ml,R07,La respuesta resultó equivocado al final.,andino,1,no_andino,0.24055415391921997
+626,sut1_ml,R07,Las fotografías salió borroso por la poca luz.,andino,5,andino,0.7155343294143677
+627,sut1_ml,R07,La casa está lleno de visitas.,andino,1,no_andino,0.025846660137176514
+628,sut1_ml,R07,Los árboles quedó dañado por el viento.,andino,5,no_andino,0.1648053526878357
+629,sut1_ml,R07,Las estudiantes llegaron emocionado a la ceremonia.,andino,3,no_andino,0.32498425245285034
+630,sut1_ml,R07,La leche está frío todavía.,andino,5,andino,0.8535540699958801
+631,sut1_ml,R07,Los asientos estaba vacío al comienzo.,andino,5,andino,0.8801248073577881
+632,sut1_ml,R07,La cortina quedó torcido después de lavarla.,andino,2,andino,0.9436277747154236
+633,sut1_ml,R07,Las naranjas están bastante dulce.,andino,3,no_andino,0.4279620051383972
+634,sut1_ml,R07,Mis primos llegó temprano a la reunión.,andino,1,no_andino,0.12063044309616089
+635,sut1_ml,R07,La oficina estaba iluminado toda la tarde.,andino,1,no_andino,0.19558781385421753
+636,sut1_ml,R07,Los regalos quedó envuelto antes del almuerzo.,andino,2,andino,0.8072257041931152
+637,sut1_ml,R07,La carretera se encuentra bloqueado por las obras.,andino,4,no_andino,0.02017766237258911
+638,sut1_ml,R07,Las gallinas estaba encerrado en el corral.,andino,3,andino,0.8503401279449463
+639,sut1_ml,R07,La paciente salió tranquilo de la consulta.,andino,1,no_andino,0.007613420486450195
+640,sut1_ml,R07,Los teléfonos quedó apagado durante la función.,andino,1,andino,0.8155884742736816
+641,sut1_ml,R07,Las camisas nuevas parece barato.,andino,3,andino,0.523184061050415
+642,sut1_ml,R07,La mesa resultó demasiado pequeño para todos.,andino,1,no_andino,0.008125126361846924
+643,sut1_ml,R07,Los estudiantes estaba nervioso antes de exponer.,andino,5,no_andino,0.22254794836044312
+644,sut1_ml,R07,La fotografía quedó hermoso con esa luz.,andino,4,no_andino,0.12034648656845093
+645,sut1_ml,R07,Las ventanas sigue abierto desde la mañana.,andino,2,andino,0.9883438944816589
+646,sut1_ml,R07,La niña se mostró satisfecho con su dibujo.,andino,5,no_andino,0.1083710789680481
+647,sut1_ml,R07,Los vasos estaba limpio dentro de la alacena.,andino,1,no_andino,0.1977919340133667
+648,sut1_ml,R07,La comida quedó listo a las dos.,andino,4,no_andino,0.46986085176467896
+649,sut1_ml,R07,Las habitaciones se encuentra disponible para reservar.,andino,2,no_andino,0.018270790576934814
+650,sut1_ml,R07,El profesor y la directora estaba ocupado.,andino,5,no_andino,0.006030082702636719
+651,sut1_ml,R07,Las fotografías quedaron borrosas por el movimiento.,no_andino,4,no_andino,0.020163893699645996
+652,sut1_ml,R07,El niño estaba cansado después del entrenamiento.,no_andino,3,andino,0.6071808338165283
+653,sut1_ml,R07,Los asientos nuevos resultaron cómodos.,no_andino,3,no_andino,0.0052874088287353516
+654,sut1_ml,R07,La sopa quedó caliente durante horas.,no_andino,5,no_andino,0.011289536952972412
+655,sut1_ml,R07,Mis compañeras llegaron preparadas a la reunión.,no_andino,1,no_andino,0.014103353023529053
+656,sut1_ml,R07,La camisa blanca está limpia y planchada.,no_andino,1,andino,0.8801582455635071
+657,sut1_ml,R07,Los caminos permanecieron cerrados por la nevada.,no_andino,3,no_andino,0.1850982904434204
+658,sut1_ml,R07,Las alumnas estaban contentas con sus resultados.,no_andino,1,andino,0.6084675788879395
+659,sut1_ml,R07,Mi hermano llegó agotado después del viaje.,no_andino,2,andino,0.6038615703582764
+660,sut1_ml,R07,Estas montañas se ven hermosas al amanecer.,no_andino,5,no_andino,0.15266019105911255
+661,sut1_ml,R07,La ventana quedó abierta hasta la medianoche.,no_andino,1,no_andino,0.3732556104660034
+662,sut1_ml,R07,Los documentos están guardados en una carpeta.,no_andino,3,no_andino,0.012974202632904053
+663,sut1_ml,R07,La profesora parecía preocupada por la noticia.,no_andino,4,andino,0.5503284931182861
+664,sut1_ml,R07,Las mesas estaban cubiertas con manteles.,no_andino,1,no_andino,0.34039759635925293
+665,sut1_ml,R07,Mis tías llegaron descansadas a la celebración.,no_andino,2,no_andino,0.03463953733444214
+666,sut1_ml,R07,Los zapatos siguen mojados por la lluvia.,no_andino,5,andino,0.5105063915252686
+667,sut1_ml,R07,La película estuvo divertida y entretenida.,no_andino,3,no_andino,0.13315600156784058
+668,sut1_ml,R07,Las paredes quedaron pintadas de amarillo.,no_andino,5,no_andino,0.19277411699295044
+669,sut1_ml,R07,El arroz estaba demasiado salado.,no_andino,1,andino,0.5089818239212036
+670,sut1_ml,R07,Los niños se quedaron sorprendidos con el espectáculo.,no_andino,5,no_andino,0.19562047719955444
+671,sut1_ml,R07,La puerta principal está cerrada desde ayer.,no_andino,1,no_andino,0.35345590114593506
+672,sut1_ml,R07,Las bicicletas estaban estacionadas junto al muro.,no_andino,2,no_andino,0.04588758945465088
+673,sut1_ml,R07,El libro y el cuaderno están sobre la mesa.,no_andino,4,andino,0.8059204816818237
+674,sut1_ml,R07,La niña estaba distraída durante la clase.,no_andino,3,no_andino,0.09319961071014404
+675,sut1_ml,R07,Las manzanas se ven maduras en el árbol.,no_andino,5,andino,0.9052469730377197
+676,sut1_ml,R07,Los perros parecían asustados por los truenos.,no_andino,1,no_andino,0.1182054877281189
+677,sut1_ml,R07,La respuesta resultó equivocada al final.,no_andino,3,no_andino,0.16406428813934326
+678,sut1_ml,R07,Las fotografías salieron borrosas por la poca luz.,no_andino,3,no_andino,0.04346412420272827
+679,sut1_ml,R07,La casa está llena de visitas.,no_andino,5,andino,0.6206661462783813
+680,sut1_ml,R07,Los árboles quedaron dañados por el viento.,no_andino,1,no_andino,0.23477357625961304
+681,sut1_ml,R07,Las estudiantes llegaron emocionadas a la ceremonia.,no_andino,4,no_andino,0.2892824411392212
+682,sut1_ml,R07,La leche está fría todavía.,no_andino,2,andino,0.8782752156257629
+683,sut1_ml,R07,Los asientos estaban vacíos al comienzo.,no_andino,2,andino,0.7256541848182678
+684,sut1_ml,R07,La cortina quedó torcida después de lavarla.,no_andino,2,no_andino,0.20161110162734985
+685,sut1_ml,R07,Las naranjas están bastante dulces.,no_andino,2,andino,0.756790041923523
+686,sut1_ml,R07,Mis primos llegaron temprano a la reunión.,no_andino,2,no_andino,0.45779311656951904
+687,sut1_ml,R07,La oficina estaba iluminada toda la tarde.,no_andino,4,andino,0.7900559306144714
+688,sut1_ml,R07,Los regalos quedaron envueltos antes del almuerzo.,no_andino,4,andino,0.8617795705795288
+689,sut1_ml,R07,La carretera se encuentra bloqueada por las obras.,no_andino,4,no_andino,0.02017766237258911
+690,sut1_ml,R07,Las gallinas estaban encerradas en el corral.,no_andino,2,andino,0.576725423336029
+691,sut1_ml,R07,La paciente salió tranquila de la consulta.,no_andino,5,no_andino,0.14055144786834717
+692,sut1_ml,R07,Los teléfonos quedaron apagados durante la función.,no_andino,2,no_andino,0.15099090337753296
+693,sut1_ml,R07,Las camisas nuevas parecen baratas.,no_andino,3,no_andino,0.021101295948028564
+694,sut1_ml,R07,La mesa resultó demasiado pequeña para todos.,no_andino,4,no_andino,0.45891857147216797
+695,sut1_ml,R07,Los estudiantes estaban nerviosos antes de exponer.,no_andino,5,no_andino,0.028231382369995117
+696,sut1_ml,R07,La fotografía quedó hermosa con esa luz.,no_andino,1,andino,0.8785749077796936
+697,sut1_ml,R07,Las ventanas siguen abiertas desde la mañana.,no_andino,4,andino,0.9186383485794067
+698,sut1_ml,R07,La niña se mostró satisfecha con su dibujo.,no_andino,4,no_andino,0.16426312923431396
+699,sut1_ml,R07,Los vasos estaban limpios dentro de la alacena.,no_andino,3,no_andino,0.037528038024902344
+700,sut1_ml,R07,La comida quedó lista a las dos.,no_andino,5,no_andino,0.027074992656707764
+701,sut1_ml,R08,Ya lo llegó la ambulancia al hospital.,andino,2,andino,0.9999239444732666
+702,sut1_ml,R08,Lo salió el perro al jardín.,andino,1,andino,0.9885465502738953
+703,sut1_ml,R08,De repente lo cayó un árbol sobre el sendero.,andino,4,andino,0.9994926452636719
+704,sut1_ml,R08,Lo murió el pez durante la noche.,andino,5,andino,0.9481397271156311
+705,sut1_ml,R08,Hoy lo amaneció con mucha neblina.,andino,2,andino,0.9999271631240845
+706,sut1_ml,R08,Ya lo regresó mi hermano del viaje.,andino,1,andino,0.9999773502349854
+707,sut1_ml,R08,Lo entró la señora por la puerta lateral.,andino,5,andino,0.9551002979278564
+708,sut1_ml,R08,Anoche lo apareció una estrella brillante.,andino,2,no_andino,0.24560952186584473
+709,sut1_ml,R08,De pronto lo cayó la lámpara del techo.,andino,5,andino,0.9997844099998474
+710,sut1_ml,R08,Ya lo vino el electricista a revisar el problema.,andino,4,andino,0.9999539852142334
+711,sut1_ml,R08,Lo nació el ternero durante la madrugada.,andino,1,andino,0.5961518287658691
+712,sut1_ml,R08,Ayer lo salió el tren con retraso.,andino,5,andino,0.9990785121917725
+713,sut1_ml,R08,Lo llegó una carta desde el extranjero.,andino,2,no_andino,0.18633615970611572
+714,sut1_ml,R08,Ya lo brotó una flor entre las piedras.,andino,1,andino,0.9999935626983643
+715,sut1_ml,R08,De repente lo ocurrió un temblor pequeño.,andino,5,andino,0.9999384880065918
+716,sut1_ml,R08,Lo volvió el gato al patio de la casa.,andino,4,andino,0.959000289440155
+717,sut1_ml,R08,Temprano lo partió el autobús hacia la costa.,andino,4,andino,0.9963952302932739
+718,sut1_ml,R08,Ya lo murió el árbol del jardín.,andino,5,andino,0.9998778700828552
+719,sut1_ml,R08,Lo llegaron los visitantes al museo por la entrada norte.,andino,3,no_andino,0.336351215839386
+720,sut1_ml,R08,En la tarde lo regresaron los músicos del concierto.,andino,2,andino,0.9173866510391235
+721,sut1_ml,R08,Lo apareció un arcoíris después de la lluvia.,andino,5,no_andino,0.155620276927948
+722,sut1_ml,R08,Ya lo llegó el médico de turno.,andino,2,andino,0.9974579811096191
+723,sut1_ml,R08,Lo cayó una piedra desde la ladera.,andino,4,andino,0.9866914749145508
+724,sut1_ml,R08,Anoche lo nevó cerca de la cumbre.,andino,3,no_andino,0.4435473084449768
+725,sut1_ml,R08,Lo surgió una discusión durante la reunión.,andino,3,no_andino,0.005391240119934082
+726,sut1_ml,R08,Ya lo salió mi padre hacia el trabajo.,andino,1,andino,0.9999988675117493
+727,sut1_ml,R08,Lo vino la profesora para la entrevista.,andino,3,andino,0.7086433172225952
+728,sut1_ml,R08,Lo nacieron tres gatitos en la casa.,andino,3,andino,0.9340696334838867
+729,sut1_ml,R08,Ayer lo desapareció el gato del vecino.,andino,4,andino,0.9962985515594482
+730,sut1_ml,R08,Lo amaneció despejado después de la tormenta.,andino,5,andino,0.8593817949295044
+731,sut1_ml,R08,Ya lo retornó la embarcación al muelle.,andino,5,andino,0.9997027516365051
+732,sut1_ml,R08,Lo llegó el caminante hasta la cima.,andino,4,andino,0.9952120780944824
+733,sut1_ml,R08,Lo salieron los niños por la puerta trasera.,andino,3,andino,0.5650240182876587
+734,sut1_ml,R08,De pronto lo estalló un globo en la sala.,andino,1,andino,0.9980984330177307
+735,sut1_ml,R08,Ya lo llegó el pedido a la oficina.,andino,1,andino,0.9998623728752136
+736,sut1_ml,R08,Lo ocurrió un accidente cerca del mercado.,andino,3,no_andino,0.00010752677917480469
+737,sut1_ml,R08,Lo entró el viento por la ventana abierta.,andino,1,andino,0.9783884286880493
+738,sut1_ml,R08,Lo salió humo de la chimenea.,andino,2,andino,0.985804557800293
+739,sut1_ml,R08,Ya lo volvió la luz después del apagón.,andino,1,andino,0.9999955892562866
+740,sut1_ml,R08,Lo cayó granizo durante la tarde.,andino,4,andino,0.7288784980773926
+741,sut1_ml,R08,Lo llegaron los excursionistas al refugio antes del alba.,andino,5,andino,0.9456205368041992
+742,sut1_ml,R08,Lo creció la planta junto a la pared.,andino,3,andino,0.5154619216918945
+743,sut1_ml,R08,Ya lo nació la hija de nuestra vecina.,andino,3,andino,0.9974678158760071
+744,sut1_ml,R08,Lo apareció una grieta en la pared.,andino,2,andino,0.8418003916740417
+745,sut1_ml,R08,Lo llegó el conductor al estacionamiento.,andino,2,no_andino,0.44627755880355835
+746,sut1_ml,R08,Lo tembló el suelo durante unos segundos.,andino,4,no_andino,0.12248408794403076
+747,sut1_ml,R08,Ya lo cesó la lluvia por la noche.,andino,1,andino,0.9999259114265442
+748,sut1_ml,R08,Lo oscureció temprano en el valle.,andino,2,andino,0.9832921624183655
+749,sut1_ml,R08,Lo caminó el anciano hasta la plaza.,andino,3,andino,0.5641233325004578
+750,sut1_ml,R08,Lo desapareció la neblina al atardecer.,andino,4,andino,0.8430854082107544
+751,sut1_ml,R08,Los invitados llegaron a la estación antes de las ocho.,no_andino,3,no_andino,0.005895674228668213
+752,sut1_ml,R08,El tren salió del andén puntualmente.,no_andino,3,no_andino,0.00947427749633789
+753,sut1_ml,R08,Lo encontré debajo de la cama.,no_andino,5,andino,0.8824533224105835
+754,sut1_ml,R08,El árbol murió por falta de agua.,no_andino,2,no_andino,0.001654982566833496
+755,sut1_ml,R08,Lo compré en la feria del domingo.,no_andino,5,andino,0.8778768181800842
+756,sut1_ml,R08,El perro entró al jardín sin hacer ruido.,no_andino,5,no_andino,0.4158201217651367
+757,sut1_ml,R08,Lo repararon en el taller de la esquina.,no_andino,4,no_andino,0.11666852235794067
+758,sut1_ml,R08,Mi hermana regresó del trabajo a las seis.,no_andino,5,no_andino,0.004097998142242432
+759,sut1_ml,R08,La ambulancia llegó al hospital rápidamente.,no_andino,1,no_andino,0.019326448440551758
+760,sut1_ml,R08,Lo guardamos en la caja de herramientas.,no_andino,1,andino,0.8425474166870117
+761,sut1_ml,R08,El bebé nació durante la madrugada.,no_andino,4,no_andino,0.004587233066558838
+762,sut1_ml,R08,Lo entregaron en la recepción del edificio.,no_andino,2,no_andino,0.10961729288101196
+763,sut1_ml,R08,Las aves volaron sobre el lago.,no_andino,4,no_andino,0.05750083923339844
+764,sut1_ml,R08,La profesora vino a la reunión temprano.,no_andino,5,andino,0.9333633780479431
+765,sut1_ml,R08,Lo escuché desde el otro lado del patio.,no_andino,5,no_andino,0.46171945333480835
+766,sut1_ml,R08,El visitante salió por la puerta principal.,no_andino,5,no_andino,0.2150546908378601
+767,sut1_ml,R08,Las flores crecieron cerca de la ventana.,no_andino,4,no_andino,0.048442304134368896
+768,sut1_ml,R08,Lo revisará el médico esta tarde.,no_andino,2,no_andino,0.3292832374572754
+769,sut1_ml,R08,El autobús partió antes del amanecer.,no_andino,2,no_andino,0.053095102310180664
+770,sut1_ml,R08,La lluvia terminó después de medianoche.,no_andino,5,no_andino,0.3711521029472351
+771,sut1_ml,R08,Lo vi sobre el escritorio de Ana.,no_andino,1,no_andino,0.15407246351242065
+772,sut1_ml,R08,Los excursionistas subieron hasta el refugio.,no_andino,3,no_andino,0.12878191471099854
+773,sut1_ml,R08,El gato apareció detrás del armario.,no_andino,3,no_andino,0.4326624870300293
+774,sut1_ml,R08,Lo envié por correo electrónico anoche.,no_andino,4,andino,0.982159435749054
+775,sut1_ml,R08,La temperatura bajó durante la noche.,no_andino,2,no_andino,0.009973883628845215
+776,sut1_ml,R08,La familia volvió al pueblo en diciembre.,no_andino,2,andino,0.7919865250587463
+777,sut1_ml,R08,Lo recogieron de la oficina central.,no_andino,3,no_andino,0.0026424527168273926
+778,sut1_ml,R08,Las nubes desaparecieron al atardecer.,no_andino,1,andino,0.9520936608314514
+779,sut1_ml,R08,Los estudiantes caminaron hasta la biblioteca.,no_andino,3,no_andino,0.41034364700317383
+780,sut1_ml,R08,Lo pintaron de azul el sábado pasado.,no_andino,3,andino,0.7778114080429077
+781,sut1_ml,R08,El viento entró por la ventana abierta.,no_andino,1,andino,0.7471429109573364
+782,sut1_ml,R08,Los visitantes bajaron por las escaleras.,no_andino,4,no_andino,0.30456840991973877
+783,sut1_ml,R08,Lo colocaremos junto a la puerta.,no_andino,3,andino,0.5056911706924438
+784,sut1_ml,R08,Un globo estalló durante la celebración.,no_andino,1,no_andino,0.1264076828956604
+785,sut1_ml,R08,El médico llegó poco después de las nueve.,no_andino,4,no_andino,0.05671501159667969
+786,sut1_ml,R08,Lo reconocí por la fotografía del carnet.,no_andino,3,no_andino,0.3002915382385254
+787,sut1_ml,R08,Una grieta apareció en el techo.,no_andino,4,no_andino,0.2645760178565979
+788,sut1_ml,R08,Los músicos regresaron después del concierto.,no_andino,4,andino,0.5340343713760376
+789,sut1_ml,R08,Lo limpiamos antes de entregarlo.,no_andino,5,no_andino,0.2601185441017151
+790,sut1_ml,R08,El camino terminó junto al río.,no_andino,1,andino,0.999080240726471
+791,sut1_ml,R08,La embarcación retornó al muelle al mediodía.,no_andino,2,andino,0.6942242383956909
+792,sut1_ml,R08,Lo usamos durante el experimento.,no_andino,1,andino,0.7828264236450195
+793,sut1_ml,R08,La planta creció durante la primavera.,no_andino,1,no_andino,0.05186355113983154
+794,sut1_ml,R08,Un temblor ocurrió cerca de la costa.,no_andino,2,andino,0.8374662399291992
+795,sut1_ml,R08,Lo dejaron sobre una repisa.,no_andino,3,no_andino,0.25545263290405273
+796,sut1_ml,R08,Los niños entraron al salón sin demora.,no_andino,2,no_andino,0.2535848021507263
+797,sut1_ml,R08,El camión salió del almacén al amanecer.,no_andino,2,no_andino,0.4795067310333252
+798,sut1_ml,R08,Lo preparó mi hermana para la cena.,no_andino,5,andino,0.9752578735351562
+799,sut1_ml,R08,El anciano caminó hasta la plaza central.,no_andino,1,no_andino,0.03214961290359497
+800,sut1_ml,R08,La nieve cayó durante la noche.,no_andino,4,no_andino,0.15297359228134155
+801,sut1_ml,R09,Trabajando estoy en la huerta desde temprano.,andino,3,andino,0.9805605411529541
+802,sut1_ml,R09,Cocinando está mi padre para toda la familia.,andino,1,andino,0.8371805548667908
+803,sut1_ml,R09,Corriendo están los niños por el patio.,andino,2,andino,0.9301050901412964
+804,sut1_ml,R09,Esperando estamos la respuesta de la municipalidad.,andino,4,no_andino,0.26299232244491577
+805,sut1_ml,R09,Aprendiendo está Lucía a manejar bicicleta.,andino,1,no_andino,0.09455174207687378
+806,sut1_ml,R09,Leyendo estoy una novela de aventuras.,andino,5,no_andino,0.2176053524017334
+807,sut1_ml,R09,Arreglando está el técnico la impresora.,andino,4,no_andino,0.317193865776062
+808,sut1_ml,R09,Preparando estamos los materiales del taller.,andino,2,andino,0.926948070526123
+809,sut1_ml,R09,Pintando están los vecinos la fachada.,andino,4,andino,0.8827009797096252
+810,sut1_ml,R09,Regando está mi abuela las plantas del balcón.,andino,1,andino,0.9490115642547607
+811,sut1_ml,R09,Escribiendo estoy el informe de la semana.,andino,1,no_andino,0.3067139983177185
+812,sut1_ml,R09,Ordenando está mi hermana los documentos.,andino,2,andino,0.9688823223114014
+813,sut1_ml,R09,Ensayando están los músicos en el teatro.,andino,5,no_andino,0.17363709211349487
+814,sut1_ml,R09,Buscando estamos una dirección en el mapa.,andino,5,no_andino,0.4070323705673218
+815,sut1_ml,R09,Dibujando está la niña un paisaje.,andino,5,andino,0.6887639760971069
+816,sut1_ml,R09,Lavando estoy la ropa de deporte.,andino,1,no_andino,0.014451205730438232
+817,sut1_ml,R09,Construyendo están los obreros una escalera.,andino,3,no_andino,0.10833442211151123
+818,sut1_ml,R09,Estudiando está Daniel para su examen.,andino,3,andino,0.9685706496238708
+819,sut1_ml,R09,Revisando estamos los resultados del proyecto.,andino,3,no_andino,0.09083735942840576
+820,sut1_ml,R09,Barriendo está el encargado la entrada.,andino,5,andino,0.9923418760299683
+821,sut1_ml,R09,Caminando estoy hacia la biblioteca.,andino,2,andino,0.9817887544631958
+822,sut1_ml,R09,Diseñando están las arquitectas el nuevo edificio.,andino,4,andino,0.674315333366394
+823,sut1_ml,R09,Escuchando está Paula una conferencia.,andino,2,andino,0.9589194059371948
+824,sut1_ml,R09,Cortando estoy las verduras para el almuerzo.,andino,3,andino,0.8964675068855286
+825,sut1_ml,R09,Viajando están mis primos hacia el norte.,andino,2,andino,0.6724165678024292
+826,sut1_ml,R09,Organizando está el grupo una colecta.,andino,2,no_andino,0.11292684078216553
+827,sut1_ml,R09,Fotografiando estamos las aves del parque.,andino,5,no_andino,0.055755555629730225
+828,sut1_ml,R09,Tejiendo está mi tía una bufanda.,andino,3,andino,0.8314606547355652
+829,sut1_ml,R09,Buscando estoy mis llaves por toda la casa.,andino,1,andino,0.9944455027580261
+830,sut1_ml,R09,Practicando están los jugadores en la cancha.,andino,1,no_andino,0.4075411558151245
+831,sut1_ml,R09,Limpiando está el mecánico las piezas.,andino,4,andino,0.9452056884765625
+832,sut1_ml,R09,Plantando estamos árboles junto al colegio.,andino,5,andino,0.5667349100112915
+833,sut1_ml,R09,Hablando estoy con la secretaria del curso.,andino,2,andino,0.9234543442726135
+834,sut1_ml,R09,Decorando están los estudiantes el salón.,andino,4,andino,0.9008792042732239
+835,sut1_ml,R09,Comparando está la investigadora dos métodos.,andino,4,no_andino,0.24233758449554443
+836,sut1_ml,R09,Preparando estoy café para los invitados.,andino,5,andino,0.9994847774505615
+837,sut1_ml,R09,Trazando están los ingenieros una nueva ruta.,andino,1,andino,0.6138384938240051
+838,sut1_ml,R09,Esperando está el conductor junto a la parada.,andino,1,no_andino,0.3819109797477722
+839,sut1_ml,R09,Contando estamos las cajas del almacén.,andino,3,andino,0.5151630640029907
+840,sut1_ml,R09,Aprendiendo están los alumnos una canción.,andino,1,no_andino,0.08092629909515381
+841,sut1_ml,R09,Calculando estoy el presupuesto del viaje.,andino,2,no_andino,0.11506187915802002
+842,sut1_ml,R09,Arreglando está mi vecino la reja del patio.,andino,5,andino,0.9962418079376221
+843,sut1_ml,R09,Recogiendo están los voluntarios residuos de la playa.,andino,3,andino,0.7322095632553101
+844,sut1_ml,R09,Mostrando está el guía las salas del museo.,andino,5,andino,0.9016572833061218
+845,sut1_ml,R09,Midiendo estamos el terreno antes de construir.,andino,3,andino,0.5373656749725342
+846,sut1_ml,R09,Traduciendo está la estudiante un artículo académico.,andino,4,andino,0.9392297267913818
+847,sut1_ml,R09,Horneando estoy pan para el desayuno.,andino,4,andino,0.9959752559661865
+848,sut1_ml,R09,Cuidando están los abuelos a su nieto.,andino,4,andino,0.9961376190185547
+849,sut1_ml,R09,Observando está el biólogo las muestras.,andino,3,andino,0.9856101274490356
+850,sut1_ml,R09,Preparando estamos una presentación para mañana.,andino,2,andino,0.9100769758224487
+851,sut1_ml,R09,La arquitecta está diseñando una escuela nueva.,no_andino,4,no_andino,0.23560136556625366
+852,sut1_ml,R09,Los voluntarios están limpiando la playa.,no_andino,3,andino,0.6269713044166565
+853,sut1_ml,R09,Estoy estudiando para el examen de estadística.,no_andino,2,no_andino,0.11818903684616089
+854,sut1_ml,R09,Mi hermano está arreglando su bicicleta.,no_andino,3,andino,0.7081009149551392
+855,sut1_ml,R09,El músico está ensayando antes del concierto.,no_andino,2,no_andino,0.15898257493972778
+856,sut1_ml,R09,Los jardineros están podando los árboles del parque.,no_andino,4,andino,0.6510143876075745
+857,sut1_ml,R09,Estamos revisando los formularios de inscripción.,no_andino,4,no_andino,0.4267714023590088
+858,sut1_ml,R09,La niña está dibujando un castillo de colores.,no_andino,5,no_andino,0.04757392406463623
+859,sut1_ml,R09,Estoy preparando un resumen para la reunión.,no_andino,1,andino,0.9082498550415039
+860,sut1_ml,R09,Los médicos están atendiendo a los pacientes.,no_andino,3,andino,0.6755317449569702
+861,sut1_ml,R09,El fotógrafo está capturando imágenes del paisaje.,no_andino,1,no_andino,0.08951449394226074
+862,sut1_ml,R09,Mis primos están viajando hacia el sur.,no_andino,4,andino,0.791669487953186
+863,sut1_ml,R09,La profesora está explicando un problema de física.,no_andino,1,no_andino,0.09072613716125488
+864,sut1_ml,R09,Estamos organizando la biblioteca del colegio.,no_andino,5,no_andino,0.0265578031539917
+865,sut1_ml,R09,La panadera está horneando galletas recién hechas.,no_andino,5,no_andino,0.054473280906677246
+866,sut1_ml,R09,Estoy leyendo un artículo sobre astronomía.,no_andino,2,andino,0.8299961090087891
+867,sut1_ml,R09,Los alumnos están aprendiendo a programar.,no_andino,5,no_andino,0.07177209854125977
+868,sut1_ml,R09,El técnico está instalando una actualización.,no_andino,5,no_andino,0.015220344066619873
+869,sut1_ml,R09,Estamos comparando las propuestas del proyecto.,no_andino,1,andino,0.6988159418106079
+870,sut1_ml,R09,Mi tía está tejiendo una manta de lana.,no_andino,4,no_andino,0.02957552671432495
+871,sut1_ml,R09,Los obreros están construyendo una nueva vereda.,no_andino,1,andino,0.8635932207107544
+872,sut1_ml,R09,Estoy buscando información en los archivos.,no_andino,5,andino,0.7426974773406982
+873,sut1_ml,R09,La familia está preparando una cena de aniversario.,no_andino,1,no_andino,0.029877424240112305
+874,sut1_ml,R09,Los ciclistas están cruzando el puente.,no_andino,2,no_andino,0.10554075241088867
+875,sut1_ml,R09,La enfermera está revisando los equipos médicos.,no_andino,2,andino,0.6248589158058167
+876,sut1_ml,R09,Estamos esperando el inicio de la conferencia.,no_andino,2,no_andino,0.10027021169662476
+877,sut1_ml,R09,El artista está pintando un retrato.,no_andino,3,no_andino,0.06257283687591553
+878,sut1_ml,R09,Estoy escuchando un programa de radio.,no_andino,4,no_andino,0.0003935694694519043
+879,sut1_ml,R09,Los estudiantes están practicando una coreografía.,no_andino,5,andino,0.8812059164047241
+880,sut1_ml,R09,Mi vecino está reparando una ventana rota.,no_andino,4,no_andino,0.007342517375946045
+881,sut1_ml,R09,El equipo está analizando los resultados del ensayo.,no_andino,2,no_andino,0.4047446846961975
+882,sut1_ml,R09,Estamos sembrando flores en el jardín.,no_andino,3,no_andino,0.29664504528045654
+883,sut1_ml,R09,La periodista está entrevistando a los participantes.,no_andino,4,andino,0.7276049852371216
+884,sut1_ml,R09,Estoy calculando los gastos del viaje.,no_andino,1,andino,0.9640254974365234
+885,sut1_ml,R09,Los niños están jugando en la zona recreativa.,no_andino,3,no_andino,0.35095876455307007
+886,sut1_ml,R09,La secretaria está archivando los expedientes.,no_andino,4,andino,0.9338303208351135
+887,sut1_ml,R09,Estamos preparando los materiales para la clase.,no_andino,2,andino,0.9954826235771179
+888,sut1_ml,R09,El científico está observando las muestras del laboratorio.,no_andino,4,no_andino,0.16577351093292236
+889,sut1_ml,R09,Mis compañeras están redactando una propuesta.,no_andino,3,no_andino,0.10847359895706177
+890,sut1_ml,R09,Estoy regando las plantas de la terraza.,no_andino,2,no_andino,0.34568238258361816
+891,sut1_ml,R09,El carpintero está cortando unas tablas de madera.,no_andino,5,no_andino,0.2346908450126648
+892,sut1_ml,R09,Los actores están ensayando la escena final.,no_andino,1,andino,0.9849539399147034
+893,sut1_ml,R09,Estamos midiendo la temperatura del agua.,no_andino,1,no_andino,0.3782989978790283
+894,sut1_ml,R09,La diseñadora está eligiendo la tipografía del cartel.,no_andino,5,andino,0.916090726852417
+895,sut1_ml,R09,Estoy limpiando mi escritorio antes de trabajar.,no_andino,3,andino,0.9665119647979736
+896,sut1_ml,R09,Los voluntarios están distribuyendo alimentos.,no_andino,5,no_andino,0.001063525676727295
+897,sut1_ml,R09,Mi padre está cocinando una sopa de verduras.,no_andino,3,no_andino,0.003375530242919922
+898,sut1_ml,R09,Estamos grabando un video para el curso.,no_andino,2,no_andino,0.3164028525352478
+899,sut1_ml,R09,La investigadora está traduciendo un documento técnico.,no_andino,1,no_andino,0.10490542650222778
+900,sut1_ml,R09,El conductor está esperando a los últimos pasajeros.,no_andino,3,no_andino,0.12928396463394165

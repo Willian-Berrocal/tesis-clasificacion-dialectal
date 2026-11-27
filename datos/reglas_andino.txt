@@ -1,0 +1,216 @@
+==================================================
+REGLA
+==================================================
+
+ID:
+R01
+
+Nombre:
+Uso de posesivo: Doble posesivo
+
+Descripción:
+La construcción 'de X su Y' marca al poseedor (X) con la preposición 'de' y al mismo tiempo marca el vínculo posesivo con 'su' antepuesto al poseído (Y). El posesivo se duplica: una vez en la frase preposicional y otra vez en el determinante. Esta redundancia gramatical calca el genitivo quechua, donde el poseedor lleva el sufijo -pa y el poseído lleva el sufijo -n, marcando ambos elementos simultáneamente.
+
+Ejemplos:
+
+De mi tío su casa queda lejos del pueblo.
+
+De mi padrino su carro es nuevo.
+
+De Pedro su mamá llegó ayer de la ciudad.
+
+De mi hermano sus zapatos están sucios de barro.
+
+De mi abuelo su chacra da buena cosecha cada año.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R02
+
+Nombre:
+Orden objeto y verbo: Orden OV
+
+Descripción:
+El objeto directo o indirecto se coloca ANTES del verbo que lo rige, rompiendo el orden SVO del español estándar. Esta anteposición del objeto calca el orden básico del quechua, que es SOV (Sujeto-Objeto-Verbo).
+
+Ejemplos:
+
+Pan voy a comprar en la tienda.
+
+A la plaza está yendo ahorita.
+
+Chicha de jora quiero tomar.
+
+A mi tía voy a visitar esta tarde.
+
+La ropa tengo que lavar hoy.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R03
+
+Nombre:
+Clausula subordinada: Subordinada antes de principal
+
+Descripción:
+La cláusula subordinada causal se antepone a la cláusula principal, introducida por el marcador 'de lo que'. En español estándar la causa suele ir después del efecto, pero en el patrón andino la causa se presenta primero, calcando el orden sintáctico del quechua donde las cláusulas subordinadas con verbo no finito preceden a la cláusula principal.
+
+Ejemplos:
+
+De lo que manejó distraído chocó el carro.
+
+De lo que comió tan rápido se atoró.
+
+De lo que faltaste se molestó.
+
+De lo que escuchó un ruido se asustó.
+
+De lo que trabajó mucho se cansó.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R04
+
+Nombre:
+Uso de nomás: Limitativo "nomás"
+
+Descripción:
+La partícula 'nomás' funciona como limitativo, restringiendo, atenuando o enfatizando la acción o el estado expresado. Puede aparecer en posición postverbal, postnominal o tras infinitivo. Calca el sufijo quechua -lla, que cumple esta función limitativa, traducido como palabra independiente en lugar de sufijo ligado.
+
+Ejemplos:
+
+Espera nomás, ahorita vengo.
+
+Aquí nomás quédate tranquilo.
+
+La puerta sin cerrar nomás me había dormido.
+
+Como gente nomás lloraba.
+
+Siéntate nomás un ratito.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R05
+
+Nombre:
+Uso de dice: Reportativo "dice"
+
+Descripción:
+Sirve para marcar que algo viene de otra fuente, casi como “según dicen”.
+
+Ejemplos:
+
+Mañana viene, dice.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R06
+
+Nombre:
+Uso de pues: "Pues" enfático
+
+Descripción:
+El marcador 'pues' aparece en posición media o final con función puramente enfática o de reformulación discursiva, sin el valor causal del español estándar. Calca el sufijo quechua -puni (enfático absoluto) o -chus (interrogativo enfático), que refuerzan la afirmación o pregunta sin relación lógica de causa-efecto.
+
+Ejemplos:
+
+Sí pues, así había sido nomás.
+
+Claro pues, ya te había dicho.
+
+¿Qué pues quieres que haga?
+
+¿Cómo pues no sabías?
+
+Es que así pues es la vida.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R07
+
+Nombre:
+Concordancia género/número: Discordancia de género/número
+
+Descripción:
+El adjetivo o participio no concuerda en género y/o número con el sustantivo al que modifica, apareciendo sistemáticamente en su forma masculina singular como forma 'no marcada'. El quechua carece de género gramatical y de concordancia obligatoria, por lo que el hablante bilingüe transfiere esa ausencia al español.
+
+Ejemplos:
+
+La silla estaba roto.
+
+Bonito es la ciudad en verano.
+
+Los libros es de él.
+
+La manzana está maduro ya.
+
+Las flores es hermoso en primavera.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R08
+
+Nombre:
+Uso de clítico lo: Falsa pronominalización (lo espurio)
+
+Descripción:
+Aparece el clítico 'lo' delante de verbos intransitivos donde no corresponde gramaticalmente ningún objeto directo. Este 'lo' no pronominaliza nada — es una marca aspectual heredada del sufijo quechua -rqu, que indica movimiento abrupto o acción súbita, reinterpretado como clítico pronominal en español.
+
+Ejemplos:
+
+Ya lo llegó desde la chacra.
+
+Ya lo murió el perro.
+
+Lo durmió bien rápido anoche.
+
+Ya lo amaneció temprano.
+
+Ya lo cayó la lluvia.
+
+==================================================
+REGLA
+==================================================
+
+ID:
+R09
+
+Nombre:
+Uso de gerundio + estar: Gerundio andino
+
+Descripción:
+La perífrasis verbal GERUNDIO + ESTAR aparece con el auxiliar pospuesto al gerundio, en lugar del orden estándar ESTAR + GERUNDIO. Calca el orden del progresivo quechua (-sha-/-cha-), donde la marca de aspecto progresivo se sufija a la raíz verbal.
+
+Ejemplos:
+
+Viniendo estoy del mercado ahorita.
+
+El maíz cosechando estamos en el campo.
+
+Al pueblo yendo está ahorita.
+
+¿Qué diciendo nomás me estás?
+
+Vine pensando visitar a mi tía nomás.

@@ -1,0 +1,2 @@
+sistema_a,sistema_b,ambos_correctos,solo_a_correcto,solo_b_correcto,ambos_incorrectos,discordantes,diferencia_accuracy_b_menos_a,p_valor,p_holm,significativo_holm
+SUT 3,SUT 4,590,18,218,74,236,0.2222222222222222,8.171160013685633e-45,4.90269600821138e-44,True

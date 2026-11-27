@@ -1,0 +1,19 @@
+sistema,etiqueta_real,estado_recuperacion,clasificacion_correcta,cantidad
+SUT 3,andino,Regla correcta,False,35
+SUT 3,andino,Regla correcta,True,80
+SUT 3,andino,Regla equivocada,False,67
+SUT 3,andino,Regla equivocada,True,76
+SUT 3,andino,Sin regla,False,142
+SUT 3,andino,Sin regla,True,50
+SUT 3,no_andino,Abstención correcta,True,223
+SUT 3,no_andino,Recuperación indebida,False,48
+SUT 3,no_andino,Recuperación indebida,True,179
+SUT 4,andino,Regla correcta,False,62
+SUT 4,andino,Regla correcta,True,341
+SUT 4,andino,Regla equivocada,False,1
+SUT 4,andino,Regla equivocada,True,13
+SUT 4,andino,Sin regla,False,27
+SUT 4,andino,Sin regla,True,6
+SUT 4,no_andino,Abstención correcta,False,2
+SUT 4,no_andino,Abstención correcta,True,441
+SUT 4,no_andino,Recuperación indebida,True,7

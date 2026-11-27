@@ -1,0 +1,3 @@
+sistema,hit_at_1_abstencion,reglas_correctas_andino,reglas_incorrectas_andino,sin_regla_andino,abstenciones_correctas_no_andino,reglas_indebidas_no_andino,recall_regla_andino,abstencion_no_andino
+SUT 3 - RAG semántico,0.37555555555555553,115,143,192,223,227,0.25555555555555554,0.4955555555555556
+SUT 4 - RecMS,0.94,403,14,33,443,7,0.8955555555555555,0.9844444444444445

@@ -1,0 +1,19 @@
+regla_id,etiqueta_real,Ambos correctos,Ambos incorrectos,Solo RAG correcto,Solo RecMS correcto
+R01,andino,26,1,1,22
+R01,no_andino,47,0,0,3
+R02,andino,14,12,3,21
+R02,no_andino,48,0,0,2
+R03,andino,28,0,0,22
+R03,no_andino,45,0,0,5
+R04,andino,43,0,0,7
+R04,no_andino,34,0,1,15
+R05,andino,1,44,5,0
+R05,no_andino,48,0,0,2
+R06,andino,19,2,0,29
+R06,no_andino,42,0,0,8
+R07,andino,14,7,0,29
+R07,no_andino,46,0,0,4
+R08,andino,17,6,7,20
+R08,no_andino,41,0,1,8
+R09,andino,28,2,0,20
+R09,no_andino,49,0,0,1
